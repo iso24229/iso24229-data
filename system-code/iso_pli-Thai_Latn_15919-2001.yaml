@@ -1,0 +1,26 @@
+uuid: iso_pli-Thai_Latn_15919-2001
+registrationStatus: proposed
+uri: urn:iso:24229:system:iso:pli-Thai:Latn:15919-2001
+abstract: "The conversion system identified by the code iso:pli-Thai:Latn:15919-2001 (iso:pli-Thai:Latn:15919-2001)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "ISO15919"
+    label: "ISO 15919"
+    title: "Information and documentation -- Transliteration of Devanagari and related Indic scripts into Latin characters"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: iso:pli-Thai:Latn:15919-2001
+name: "ISO 15919:2001 Information and documentation -- Transliteration of Devanagari and related Indic scripts into Latin characters"
+authority: iso
+sourceSpelling: pli-Thai
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "15919-2001"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

@@ -1,0 +1,24 @@
+uuid: var_kur-Arab_Latn_edmonds-1931
+registrationStatus: proposed
+uri: urn:iso:24229:system:var:kur-Arab:Latn:edmonds-1931
+abstract: "The conversion system identified by the code var:kur-Arab:Latn:edmonds-1931 (var:kur-Arab:Latn:edmonds-1931)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `kur_Arab2Latn_EDMONDS_1931`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: var:kur-Arab:Latn:edmonds-1931
+name: "Kurdish J.C. Edmonds Romanization System (1931)"
+authority: var
+sourceSpelling: kur-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "edmonds-1931"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

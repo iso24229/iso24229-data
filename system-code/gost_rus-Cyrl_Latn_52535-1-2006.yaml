@@ -1,0 +1,30 @@
+uuid: gost_rus-Cyrl_Latn_52535-1-2006
+registrationStatus: proposed
+uri: urn:iso:24229:system:gost:rus-Cyrl:Latn:52535-1-2006
+abstract: "The conversion system identified by the code gost:rus-Cyrl:Latn:52535-1-2006 (gost:rus-Cyrl:Latn:52535-1-2006)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "GOSTR52535"
+    label: "GOST R 52535.1-2006"
+    title: "GOST R 52535.1-2006: Identification cards. Machine readable travel documents. Part 1. Machine readable passports"
+    publisher: Rosstandart
+    date: "2006"
+notes:
+  - "OGC 11-122r1 code `rus_Cyrl2Latn_GOST_1981`; It is used for transliteration of personal names in Russian foreign passports"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: gost:rus-Cyrl:Latn:52535-1-2006
+name: "GOST R 52535.1-2006 Identification cards. Machine readable travel documents. Part 1. Machine readable passports"
+authority: gost
+sourceSpelling: rus-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "52535-1-2006"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

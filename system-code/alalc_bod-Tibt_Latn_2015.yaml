@@ -1,0 +1,24 @@
+uuid: alalc_bod-Tibt_Latn_2015
+registrationStatus: proposed
+uri: urn:iso:24229:system:alalc:bod-Tibt:Latn:2015
+abstract: "The conversion system identified by the code alalc:bod-Tibt:Latn:2015 (alalc:bod-Tibt:Latn:2015)."
+description: null
+specification: []
+examples: []
+notes:
+  - "Source revision marker: 2015"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: alalc:bod-Tibt:Latn:2015
+name: "ALA-LC Romanization Table -- Tibetan (2015)"
+authority: alalc
+sourceSpelling: bod-Tibt
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2015"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

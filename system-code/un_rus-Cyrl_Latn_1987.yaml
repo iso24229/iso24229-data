@@ -1,0 +1,28 @@
+uuid: un_rus-Cyrl_Latn_1987
+registrationStatus: proposed
+uri: urn:iso:24229:system:un:rus-Cyrl:Latn:1987
+abstract: "The conversion system identified by the code un:rus-Cyrl:Latn:1987 (un:rus-Cyrl:Latn:1987)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "UNGEGNConf5"
+    label: "Fifth United Nations Conference on the Standardization of Geographical Names"
+    title: "Fifth United Nations Conference on the Standardization of Geographical Names"
+    publisher: "Montreal, 1987-08-18 -- 1987-08-31. Vol. I. Report of the Conference, pp. 40–41"
+    date: "1987"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: un:rus-Cyrl:Latn:1987
+name: "UN Romanization of Russian 1987"
+authority: un
+sourceSpelling: rus-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1987"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

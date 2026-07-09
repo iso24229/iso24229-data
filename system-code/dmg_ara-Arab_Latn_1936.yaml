@@ -1,0 +1,29 @@
+uuid: dmg_ara-Arab_Latn_1936
+registrationStatus: proposed
+uri: urn:iso:24229:system:dmg:ara-Arab:Latn:1936
+abstract: "The conversion system identified by the code dmg:ara-Arab:Latn:1936 (dmg:ara-Arab:Latn:1936)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "AraDMG1935"
+    label: "Arabic DMG 1936 System"
+    title: "Die Transliteration der arabischen Schrift in ihrer Anwendung auf die Hauptliteratursprachen der islamischen Welt"
+    publisher: "Denkschrift dem 19. Internationalen Orientalistenkongreß in Rom. vorgelegt von der Transkriptionskommission der Deutschen Morgenländischen Gesellschaft. Brockhaus, Leipzig"
+    date: "1935"
+    url: https://www.aai.uni-hamburg.de/voror/medien/dmg.pdf
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: dmg:ara-Arab:Latn:1936
+name: "DMG Arabic System (1936)"
+authority: dmg
+sourceSpelling: ara-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1936"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

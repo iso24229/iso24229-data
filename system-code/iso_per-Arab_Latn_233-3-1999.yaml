@@ -1,0 +1,26 @@
+uuid: iso_per-Arab_Latn_233-3-1999
+registrationStatus: proposed
+uri: urn:iso:24229:system:iso:per-Arab:Latn:233-3-1999
+abstract: "The conversion system identified by the code iso:per-Arab:Latn:233-3-1999 (iso:per-Arab:Latn:233-3-1999)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "ISO233-3"
+    label: "ISO 233-3"
+    title: "Information and documentation -- Transliteration of Arabic characters into Latin characters -- Part 3: Persian language -- Simplified transliteration"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: iso:per-Arab:Latn:233-3-1999
+name: "ISO 233-3:1999 Information and documentation -- Transliteration of Arabic characters into Latin characters -- Part 3: Persian language -- Simplified transliteration"
+authority: iso
+sourceSpelling: per-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "233-3-1999"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

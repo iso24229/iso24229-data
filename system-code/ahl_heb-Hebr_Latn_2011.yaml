@@ -1,0 +1,36 @@
+uuid: ahl_heb-Hebr_Latn_2011
+registrationStatus: proposed
+uri: urn:iso:24229:system:ahl:heb-Hebr:Latn:2011
+abstract: "Rules of Transcription: Romanization of Hebrew (2011) — the Academy of the Hebrew Language's current romanisation system, superseding the 1957 edition."
+description: "Rules of Transcription — Romanization of Hebrew (2011), Academy of the Hebrew Language."
+specification:
+  - https://web.archive.org/web/20260311080819/https://hebrew-academy.org.il/
+examples:
+  - input: "מים"
+    output: "mayim"
+    remarks: "The 2011 rules."
+  - input: "שלום"
+    output: "shalom"
+references:
+  - id: "HebrLatn"
+    label: "Rules of transliteration from Hebrew into Latin letters"
+    title: "Rules of transliteration from Hebrew into Latin letters (2011)"
+    publisher: "Academy of the Hebrew Language"
+    date: "2011"
+    url: "https://web.archive.org/web/20260204111231/https://hebrew-academy.org.il/%D7%9B%D7%9C%D7%9C%D7%99-%D7%94%D7%AA%D7%A2%D7%AA%D7%99%D7%A7/"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: ahl:heb-Hebr:Latn:2011
+name: "Academy of the Hebrew Language -- Rules of transliteration from Hebrew into Latin letters (2011)"
+authority: ahl
+sourceSpelling: heb-Hebr
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2011"
+relations:
+  - ahl_2011_supersedes_1957
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

@@ -1,0 +1,23 @@
+uuid: alalc_jav-Arab_Latn_jp-2012
+registrationStatus: proposed
+uri: urn:iso:24229:system:alalc:jav-Arab:Latn:jp-2012
+abstract: "The conversion system identified by the code alalc:jav-Arab:Latn:jp-2012 (alalc:jav-Arab:Latn:jp-2012)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: alalc:jav-Arab:Latn:jp-2012
+name: "ALA-LC Romanization Table -- Jawi-Pegon (2012)"
+authority: alalc
+sourceSpelling: jav-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "jp-2012"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "2012, need verification on language and script (TODO)"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

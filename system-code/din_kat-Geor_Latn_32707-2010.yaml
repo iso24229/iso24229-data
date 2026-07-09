@@ -1,0 +1,28 @@
+uuid: din_kat-Geor_Latn_32707-2010
+registrationStatus: proposed
+uri: urn:iso:24229:system:din:kat-Geor:Latn:32707-2010
+abstract: "The conversion system identified by the code din:kat-Geor:Latn:32707-2010 (din:kat-Geor:Latn:32707-2010)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "DIN32707"
+    label: "DIN 32707:2010"
+    title: "Information und Dokumentation -- Umschrift des georgischen Alphabets (Information and documentation -- Romanization of the Georgian alphabet)"
+    publisher: "2010-01"
+    date: "2010"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: din:kat-Geor:Latn:32707-2010
+name: "DIN 32707:2010 Information and documentation -- Romanization of the Georgian alphabet (2010-01)"
+authority: din
+sourceSpelling: kat-Geor
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "32707-2010"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

@@ -1,0 +1,24 @@
+uuid: moct_kor-Hang_Latn_2000
+registrationStatus: proposed
+uri: urn:iso:24229:system:moct:kor-Hang:Latn:2000
+abstract: "The conversion system identified by the code moct:kor-Hang:Latn:2000 (moct:kor-Hang:Latn:2000)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `kor_Hang2Latn_MOCT_2000`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: moct:kor-Hang:Latn:2000
+name: "Korean Ministry of Culture and Tourism 2000 System"
+authority: moct
+sourceSpelling: kor-Hang
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2000"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

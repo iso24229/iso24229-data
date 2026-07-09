@@ -1,0 +1,28 @@
+uuid: var_ota-Arab_Latn_birnbaum-1967
+registrationStatus: proposed
+uri: urn:iso:24229:system:var:ota-Arab:Latn:birnbaum-1967
+abstract: "The conversion system identified by the code var:ota-Arab:Latn:birnbaum-1967 (var:ota-Arab:Latn:birnbaum-1967)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "Birnbaum1967"
+    label: "The transliteration of Ottoman Turkish"
+    title: "The transliteration of Ottoman Turkish for library and general purposes: Ottoman Turkish translation scheme"
+    publisher: "Eleazar Birnbaum, Reprinted from: Journal of the American Oriental Society, v. 87, no.2, April--June"
+    date: "1967"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: var:ota-Arab:Latn:birnbaum-1967
+name: "Birnbaum Ottoman Turkish System"
+authority: var
+sourceSpelling: ota-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "birnbaum-1967"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

@@ -1,0 +1,40 @@
+# JSON Schema for spelling-system entries.
+# A spelling system requires a language code (ISO 639) AND a script code
+# (ISO 15924). Country code and extension are optional refinements.
+# A bare script code is NOT a spelling system — it has no language.
+
+$schema: https://json-schema.org/draft/2020-12/schema
+$id: https://iso24229.org/schemas/register/spelling-system.schema.yaml
+title: Spelling System
+type: object
+additionalProperties: false
+required: [uuid, languageCode, scriptCode, extension, uri, registrationStatus, createdAt, updatedAt]
+properties:
+  uuid: { type: string, minLength: 1 }
+  uri:
+    type: string
+    pattern: ^urn:iso:24229:spelling:[A-Za-z0-9-]+$
+    description: RFC 5141 URN identifier for this spelling system, e.g. `urn:iso:24229:spelling:heb-Hebr`.
+  languageCode:
+    type: string
+    pattern: ^[a-z]{3}(-[a-z]{3})?$
+    description: ISO 639 alpha-3 (or reserved range like `qaa-qtz`). Required — a spelling system without a language is just a script code, which lives in ISO 15924 reference data, not here.
+  scriptCode:
+    type: string
+    pattern: ^[A-Z][a-z]{3}$
+    description: ISO 15924 alpha-4 (title case).
+  countryCode:
+    type:
+      - string
+      - 'null'
+    pattern: ^[A-Z]{2}$
+  extension:
+    type: string
+    description: Ad-hoc extension (may be empty string).
+  registrationStatus:
+    type: string
+    enum: [proposed, accepted, notAccepted, withdrawn, superseded, retired]
+    description: ISO 19135 registration lifecycle state for this entry.
+  remarks: { type: string }
+  createdAt: { type: string, format: date-time }
+  updatedAt: { type: string, format: date-time }

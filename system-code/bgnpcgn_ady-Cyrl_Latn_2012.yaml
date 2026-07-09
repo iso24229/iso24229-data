@@ -1,0 +1,23 @@
+uuid: bgnpcgn_ady-Cyrl_Latn_2012
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:ady-Cyrl:Latn:2012
+abstract: "The conversion system identified by the code bgnpcgn:ady-Cyrl:Latn:2012 (bgnpcgn:ady-Cyrl:Latn:2012)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:ady-Cyrl:Latn:2012
+name: "BGN/PCGN System Adyghe (2012)"
+authority: bgnpcgn
+sourceSpelling: ady-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2012"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Date approved: 2012"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

@@ -1,0 +1,23 @@
+uuid: alalc_xal-Mong_Latn_2012
+registrationStatus: proposed
+uri: urn:iso:24229:system:alalc:xal-Mong:Latn:2012
+abstract: "The conversion system identified by the code alalc:xal-Mong:Latn:2012 (alalc:xal-Mong:Latn:2012)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: alalc:xal-Mong:Latn:2012
+name: "ALA-LC Romanization Table -- Tod-Oirat-Old Kalmyk (2012)"
+authority: alalc
+sourceSpelling: xal-Mong
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2012"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "2012, xal refers to Kalmyak; Oirat, need verification"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

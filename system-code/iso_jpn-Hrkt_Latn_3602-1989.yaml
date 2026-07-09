@@ -1,0 +1,26 @@
+uuid: iso_jpn-Hrkt_Latn_3602-1989
+registrationStatus: proposed
+uri: urn:iso:24229:system:iso:jpn-Hrkt:Latn:3602-1989
+abstract: "The conversion system identified by the code iso:jpn-Hrkt:Latn:3602-1989 (iso:jpn-Hrkt:Latn:3602-1989)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "ISO3602"
+    label: "ISO 3602"
+    title: "Documentation — Romanization of Japanese (kana script)"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: iso:jpn-Hrkt:Latn:3602-1989
+name: "ISO 3602:1989 Documentation -- Romanization of Japanese (kana script)"
+authority: iso
+sourceSpelling: jpn-Hrkt
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "3602-1989"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

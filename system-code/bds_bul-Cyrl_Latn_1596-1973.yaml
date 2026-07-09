@@ -1,0 +1,28 @@
+uuid: bds_bul-Cyrl_Latn_1596-1973
+registrationStatus: proposed
+uri: urn:iso:24229:system:bds:bul-Cyrl:Latn:1596-1973
+abstract: "The conversion system identified by the code bds:bul-Cyrl:Latn:1596-1973 (bds:bul-Cyrl:Latn:1596-1973)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "BDS1596-73"
+    label: "BDS 1596:1973"
+    title: "BDS 1596:1973 -- Transliteration of Bulgarian Words with Latin Characters"
+    publisher: "Bulgarian Institute for Standardization, 1973 (in Bulgarian)"
+    date: "1973"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bds:bul-Cyrl:Latn:1596-1973
+name: "BDS 1596:1973 Transliteration of Bulgarian Words with Latin Characters"
+authority: bds
+sourceSpelling: bul-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1596-1973"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

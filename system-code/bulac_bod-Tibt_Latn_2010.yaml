@@ -1,0 +1,30 @@
+uuid: bulac_bod-Tibt_Latn_2010
+registrationStatus: proposed
+uri: urn:iso:24229:system:bulac:bod-Tibt:Latn:2010
+abstract: "The conversion system identified by the code bulac:bod-Tibt:Latn:2010 (bulac:bod-Tibt:Latn:2010)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "TibtBULAC2010"
+    label: "BULAC 2010"
+    title: "Normes de translittération adoptées par la Bibliothèque universitaire des Langues et Civilisations pour le catalogage en tibétain"
+    publisher: "2010-05"
+    date: "2010"
+    url: https://web.archive.org/web/20251206063651/https://www.bulac.fr/fileadmin/fichiers/web-illustrations/pages/catalogue/Tib_normes_de_translitteration_V2.pdf
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bulac:bod-Tibt:Latn:2010
+name: "Normes de translittération adoptées par la Bibliothèque universitaire des Langues et Civilisations pour le catalogage en tibétain"
+authority: bulac
+sourceSpelling: bod-Tibt
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2010"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "2010-05"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

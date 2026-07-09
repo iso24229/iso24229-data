@@ -1,0 +1,155 @@
+= YAML schemas
+
+One schema per item class. Each YAML file in a class directory must
+satisfy the corresponding schema.
+
+The schemas are enforced at build time by the website (in
+`src/content.config.ts` of `iso24229.github.io`) using Zod via Astro's
+Content Layer API.
+
+== Common fields
+
+Every entry includes these fields:
+
+[cols="1,4"]
+|===
+| Field | Description
+| `uuid`                 | Stable identifier for this entry (matches filename stem)
+| `uri`                  | RFC 5141 URN identifier. Pattern: `urn:iso:24229:<itemClass>:<localId>`. Required on `system-code`, `authority`, and `spelling-system`.
+| `registrationStatus`   | ISO 19135 registration lifecycle state. One of `proposed`, `accepted`, `notAccepted`, `withdrawn`, `superseded`, `retired`. Applies to every item class.
+| `remarks`              | Free-text remarks
+| `createdAt`            | ISO 8601 timestamp
+| `updatedAt`            | ISO 8601 timestamp
+|===
+
+== URI pattern
+
+ISO 24229 register items are identified by URN per RFC 5141, using the
+`urn:iso:` namespace. The pattern is:
+
+  urn:iso:24229:<itemClass>:<localId>
+
+Where `<itemClass>` is one of `system`, `authority`, `spelling`, and
+`<localId>` is the canonical identifier of the entry within its class:
+
+[cols="1,1,4"]
+|===
+| Item class | URN pattern | Example
+| system-code | `urn:iso:24229:system:<code>` | `urn:iso:24229:system:ahl:heb-Hebr:Latn:2011`
+| authority | `urn:iso:24229:authority:<authorityIdentifier>` | `urn:iso:24229:authority:ahl`
+| spelling-system | `urn:iso:24229:spelling:<uuid>` | `urn:iso:24229:spelling:heb-Hebr`
+|===
+
+The URN is the canonical, location-independent identifier. The
+four-segment colon-form `code` on a system-code entry is a stable
+display form; the URN is the machine-identifier.
+
+== authority
+
+[cols="1,1,4"]
+|===
+| Field | Type | Description
+| `authorityIdentifier` | string | Short identifier (e.g. `BGN`, `ALA-LC`, `acadsin`)
+| `name`                | string | Human-readable name
+|===
+
+== code-status
+
+[cols="1,1,4"]
+|===
+| Field | Type | Description
+| `codeStatus` | enum: `preferred` \| `proposed` \| `deprecated` | Lifecycle status of a code (spec §6.3.5)
+|===
+
+== spelling-system
+
+[cols="1,1,4"]
+|===
+| Field | Type | Description
+| `languageCode` | string  | ISO 639-2/3 alpha-3 (lower case). Required.
+| `scriptCode`   | string  | ISO 15924 alpha-4 (title case, e.g. `Latn`, `Hani`). Required.
+| `countryCode`  | string? | ISO 3166-1 alpha-2 (upper case)
+| `extension`    | string  | Ad-hoc extension (e.g. `pre1972`). May be empty.
+|===
+
+A spelling-system file is named `<languageCode>-<scriptCode>(-<countryCode>)(-<extension>).yaml`.
+The default spelling of a language (no country or extension) uses just
+`<languageCode>-<scriptCode>`. Both `languageCode` and `scriptCode` are
+required: a bare script code is NOT a spelling system (it is an ISO 15924
+reference value). System codes that target a bare script (e.g. `Latn`)
+use `targetScriptCode` on the system-code entry instead of `targetSpelling`.
+
+== system-code
+
+[cols="1,1,4"]
+|===
+| Field | Type | Description
+| `code`                  | string  | Full four-segment colon-form code, e.g. `UN:ara-Arab:Latn:2017`
+| `name`                  | string  | Human-readable name
+| `uri`                   | string  | RFC 5141 URN, e.g. `urn:iso:24229:system:ahl:heb-Hebr:Latn:2011`
+| `abstract`              | string  | Short prose summary of the conversion system (one or two sentences). Required.
+| `description`           | string? | Optional longer-form description.
+| `specification`         | uri[]   | URLs of authoritative specification documents (zero or more).
+| `examples`              | object[] | Example `{input, output, remarks?}` pairs demonstrating the conversion.
+| `references`            | object[] | Bibliographic references. The first entry is the defining reference; subsequent entries are supporting. Each is `{id, label, title, publisher?, date?, url?}`.
+| `notes`                 | string[] | Editorial notes (observations, TODOs, cross-references to other systems like OGC).
+| `provenance`            | string[] | Where the entry came from (e.g. `Initial import at establishment of ISO 24229/RA.`).
+| `authority`             | ref?    | Reference to an `authority` entry. May be omitted only when the titular segment is a country code per ISO 3166-1.
+| `sourceSpelling`        | ref?    | Reference to a `spelling-system` entry. Required unless `sourceScriptCode` is used.
+| `sourceScriptCode`      | string? | Bare ISO 15924 script code for the source segment (e.g. `Cyrl`), when the source is script-only.
+| `targetSpelling`        | ref?    | Reference to a `spelling-system` entry. Required unless `targetScriptCode` is used.
+| `targetScriptCode`      | string? | Bare ISO 15924 script code for the target segment (e.g. `Latn`), when the target is script-only.
+| `identifyingSegment`    | string  | The fourth segment of the code (e.g. `2017`, `9-1995`)
+| `relations`             | ref[]   | References to `system-relation` entries (optional)
+| `codeStatus`            | ref     | Reference to a `code-status` entry
+| `systemStatus`          | ref     | Reference to a `system-status` entry
+|===
+
+Exactly one of `sourceSpelling` / `sourceScriptCode` must be set; the same
+applies to `targetSpelling` / `targetScriptCode`.
+
+== system-relation
+
+[cols="1,1,4"]
+|===
+| Field | Type | Description
+| `type`         | ref    | Reference to a `system-relation-type` entry
+| `targetSystem` | ref    | Reference to a `system-code` entry
+|===
+
+== system-relation-type
+
+[cols="1,1,4"]
+|===
+| Field | Type | Description
+| `systemRelationType` | string | Relation type per spec §6.3.7 (e.g. `basedOn`, `basisFor`, `aliasOf`, `adoptedFrom`, `supersedes`, `supersededBy`, `relatedTo`)
+|===
+
+== system-status
+
+[cols="1,1,4"]
+|===
+| Field | Type | Description
+| `systemStatus` | enum: `current` \| `former` \| `inactive` | Lifecycle status of a system (spec §6.3.6)
+|===
+
+== Bibliography
+
+The following references are the authoritative sources cited by
+entries in the register. New entries should prefer linking to these
+canonical documents in their `specification` field.
+
+[cols="1,4"]
+|===
+| Ref | Citation
+| ISO 9:1995     | Information and documentation — Transliteration of Cyrillic characters into Latin characters — Slavic and non-Slavic languages.
+| ISO 233-3      | Information and documentation — Transliteration of Arabic characters into Latin characters — Part 3: Persian language — Simplified transliteration.
+| ISO 639-1      | Codes for the representation of names of languages — Part 1: Alpha-2 code.
+| UN UNGEGN      | Report on the Current Status of United Nations Romanization Systems for Geographical Names. UNGEGN Working Group on Romanization Systems. https://www.eki.ee/wgrs/
+| Unicode        | Unicode Transliteration Guidelines. https://cldr.unicode.org/index/cldr-spec/unicode-transliteration-guidelines
+| Giles 1912     | Giles, Herbert A. _A Chinese-English Dictionary_, Revised Edition, 2 vols. London: Bernard Quaritch, 1912. (Source for Wade-Giles.)
+| ALA-LC 1997    | ALA-LC Romanization Tables: Transliteration Schemes for Non-Roman Scripts. Library of Congress, 1997. https://www.loc.gov/catdir/cpso/roman.html
+| BGN/PCGN       | BGN/PCGN Romanization Systems. National Geospatial-Intelligence Agency. http://geonames.nga.mil/gns/html/romanization.html
+| UN 1987        | _Fifth United Nations Conference on the Standardization of Geographical Names_, Montreal, 18–31 August 1987. Vol. I, Report of the Conference, pp. 40–41.
+| DIN 1460:1982  | _Umschrift kyrillischer Alphabete slawischer Sprachen_ (Conversion of Cyrillic alphabets of Slavic languages). April 1982.
+|===

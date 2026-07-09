@@ -1,0 +1,26 @@
+uuid: iso_arm-Armn_Latn_9985-1996
+registrationStatus: proposed
+uri: urn:iso:24229:system:iso:arm-Armn:Latn:9985-1996
+abstract: "The conversion system identified by the code iso:arm-Armn:Latn:9985-1996 (iso:arm-Armn:Latn:9985-1996)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "ISO9985"
+    label: "ISO 9985"
+    title: "Information and documentation -- Transliteration of Armenian characters into Latin characters"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: iso:arm-Armn:Latn:9985-1996
+name: "ISO 9985:1996 Information and documentation -- Transliteration of Armenian characters into Latin characters"
+authority: iso
+sourceSpelling: arm-Armn
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "9985-1996"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

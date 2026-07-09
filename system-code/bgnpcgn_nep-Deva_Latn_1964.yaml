@@ -1,0 +1,24 @@
+uuid: bgnpcgn_nep-Deva_Latn_1964
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:nep-Deva:Latn:1964
+abstract: "The conversion system identified by the code bgnpcgn:nep-Deva:Latn:1964 (bgnpcgn:nep-Deva:Latn:1964)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `nep_Deva2Latn_BGN_1964`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:nep-Deva:Latn:1964
+name: "BGN/PCGN Agreement Nepali (1964)"
+authority: bgnpcgn
+sourceSpelling: nep-Deva
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1964"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

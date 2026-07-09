@@ -1,0 +1,23 @@
+uuid: bgnpcgn_kor-Kore_Latn_kn-1945
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:kor-Kore:Latn:kn-1945
+abstract: "The conversion system identified by the code bgnpcgn:kor-Kore:Latn:kn-1945 (bgnpcgn:kor-Kore:Latn:kn-1945)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:kor-Kore:Latn:kn-1945
+name: "BGN/PCGN Agreement Korean McCune-Reischauer (for Democratic People’s Republic of Korea) (1945)"
+authority: bgnpcgn
+sourceSpelling: kor-Kore
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "kn-1945"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Date approved: 1945; Originator: Transactions of the Royal Asiatic Society, XXIX, 1939"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

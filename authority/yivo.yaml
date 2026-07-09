@@ -1,0 +1,9 @@
+uuid: yivo
+registrationStatus: proposed
+uri: urn:iso:24229:authority:yivo
+abstract: "YIVO Institute for Jewish Research — a conversion system authority in the ISO 24229 register."
+authorityIdentifier: yivo
+name: YIVO Institute for Jewish Research
+remarks: Initial import at establishment of ISO 24229/RA.
+createdAt: 2026-07-06T00:00:00Z
+updatedAt: 2026-07-06T00:00:00Z

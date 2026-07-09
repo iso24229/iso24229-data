@@ -1,0 +1,24 @@
+uuid: lbmod_ara-Arab_Latn_1963
+registrationStatus: proposed
+uri: urn:iso:24229:system:lbmod:ara-Arab:Latn:1963
+abstract: "The conversion system identified by the code lbmod:ara-Arab:Latn:1963 (lbmod:ara-Arab:Latn:1963)."
+description: null
+specification: []
+examples: []
+notes:
+  - "Source revision marker: 1963"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: lbmod:ara-Arab:Latn:1963
+name: "Lebanon National Romanization System"
+authority: lbmod
+sourceSpelling: ara-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1963"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

@@ -1,0 +1,26 @@
+uuid: iso_cmn-Hani_Latn_7098-2015
+registrationStatus: proposed
+uri: urn:iso:24229:system:iso:cmn-Hani:Latn:7098-2015
+abstract: "The conversion system identified by the code iso:cmn-Hani:Latn:7098-2015 (iso:cmn-Hani:Latn:7098-2015)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "ISO7098"
+    label: "ISO 7098"
+    title: "Information and documentation -- Romanization of Chinese"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: iso:cmn-Hani:Latn:7098-2015
+name: "ISO 7098:2015 Information and documentation -- Romanization of Chinese"
+authority: iso
+sourceSpelling: cmn-Hani
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "7098-2015"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

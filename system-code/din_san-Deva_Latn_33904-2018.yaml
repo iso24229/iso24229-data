@@ -1,0 +1,28 @@
+uuid: din_san-Deva_Latn_33904-2018
+registrationStatus: proposed
+uri: urn:iso:24229:system:din:san-Deva:Latn:33904-2018
+abstract: "The conversion system identified by the code din:san-Deva:Latn:33904-2018 (din:san-Deva:Latn:33904-2018)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "DIN33904"
+    label: "DIN 33904:2018"
+    title: "Information und Dokumentation -- Transliteration Devanagari (Information and documentation -- Romanization Devanagari)"
+    publisher: "2018-10"
+    date: "2018"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: din:san-Deva:Latn:33904-2018
+name: "DIN 33904:2018 Information and documentation -- Romanization Devanagari (2018-10)"
+authority: din
+sourceSpelling: san-Deva
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "33904-2018"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

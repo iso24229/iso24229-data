@@ -1,0 +1,24 @@
+uuid: odni_bul-Cyrl_Latn_2005
+registrationStatus: proposed
+uri: urn:iso:24229:system:odni:bul-Cyrl:Latn:2005
+abstract: "The conversion system identified by the code odni:bul-Cyrl:Latn:2005 (odni:bul-Cyrl:Latn:2005)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `bul_Cyrl2Latn_ODNI_2005`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: odni:bul-Cyrl:Latn:2005
+name: "Office of the Director Of National Intelligence Bulgarian Personal Names 2004 System"
+authority: odni
+sourceSpelling: bul-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2005"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

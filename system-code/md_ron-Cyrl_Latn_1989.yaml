@@ -1,0 +1,23 @@
+uuid: md_ron-Cyrl_Latn_1989
+registrationStatus: proposed
+uri: urn:iso:24229:system:md:ron-Cyrl:Latn:1989
+abstract: "The conversion system identified by the code md:ron-Cyrl:Latn:1989 (md:ron-Cyrl:Latn:1989)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: md:ron-Cyrl:Latn:1989
+name: "Republic of Moldova Romanization"
+authority: md
+sourceSpelling: ron-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1989"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Adoption date: 1989-08-31; Note: Adopted by Moldova in Law 3462"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

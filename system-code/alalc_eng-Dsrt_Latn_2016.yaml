@@ -1,0 +1,24 @@
+uuid: alalc_eng-Dsrt_Latn_2016
+registrationStatus: proposed
+uri: urn:iso:24229:system:alalc:eng-Dsrt:Latn:2016
+abstract: "The conversion system identified by the code alalc:eng-Dsrt:Latn:2016 (alalc:eng-Dsrt:Latn:2016)."
+description: null
+specification: []
+examples: []
+notes:
+  - "Source revision marker: 2016"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: alalc:eng-Dsrt:Latn:2016
+name: "ALA-LC Romanization Table -- Deseret (2016)"
+authority: alalc
+sourceSpelling: eng-Dsrt
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2016"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

@@ -1,0 +1,24 @@
+uuid: var_urd-Arab_Latn_hunterian-1872
+registrationStatus: proposed
+uri: urn:iso:24229:system:var:urd-Arab:Latn:hunterian-1872
+abstract: "The conversion system identified by the code var:urd-Arab:Latn:hunterian-1872 (var:urd-Arab:Latn:hunterian-1872)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `urd_Arab2Latn_HUN_`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: var:urd-Arab:Latn:hunterian-1872
+name: "Arabic Hunterian System"
+authority: var
+sourceSpelling: urd-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "hunterian-1872"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

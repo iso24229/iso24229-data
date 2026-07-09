@@ -1,0 +1,24 @@
+uuid: uz_uzb-Cyrl_Latn_2000
+registrationStatus: proposed
+uri: urn:iso:24229:system:uz:uzb-Cyrl:Latn:2000
+abstract: "The conversion system identified by the code uz:uzb-Cyrl:Latn:2000 (uz:uzb-Cyrl:Latn:2000)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `uzb_Cyrl2Latn_GUZ_2000`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: uz:uzb-Cyrl:Latn:2000
+name: "Government of Uzbekistan Uzbek Cyrillic Table of Correspondences System (2000)"
+authority: uz
+sourceSpelling: uzb-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2000"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

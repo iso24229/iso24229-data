@@ -1,0 +1,28 @@
+uuid: mlc_mya-Mymr_Latn_1980
+registrationStatus: proposed
+uri: urn:iso:24229:system:mlc:mya-Mymr:Latn:1980
+abstract: "The conversion system identified by the code mlc:mya-Mymr:Latn:1980 (mlc:mya-Mymr:Latn:1980)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "MLCTS"
+    label: "Myanmar Language Commission Transcription System"
+    title: "Myanmar Language Commission Transcription System (MLCTS)"
+    publisher: "Myanmar Language Commission"
+    date: "1980"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: mlc:mya-Mymr:Latn:1980
+name: "Myanmar Language Commission Transcription System (MLCTS)"
+authority: mlc
+sourceSpelling: mya-Mymr
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1980"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

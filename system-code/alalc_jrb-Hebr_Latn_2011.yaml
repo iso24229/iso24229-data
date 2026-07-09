@@ -1,0 +1,23 @@
+uuid: alalc_jrb-Hebr_Latn_2011
+registrationStatus: proposed
+uri: urn:iso:24229:system:alalc:jrb-Hebr:Latn:2011
+abstract: "The conversion system identified by the code alalc:jrb-Hebr:Latn:2011 (alalc:jrb-Hebr:Latn:2011)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: alalc:jrb-Hebr:Latn:2011
+name: "ALA-LC Romanization Table -- Judeo-Arabic (2011)"
+authority: alalc
+sourceSpelling: jrb-Hebr
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2011"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "2011, Hebr does not contain all symbols of jrb"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

@@ -1,0 +1,24 @@
+uuid: alalc_cop-Copt_Latn_2014
+registrationStatus: proposed
+uri: urn:iso:24229:system:alalc:cop-Copt:Latn:2014
+abstract: "The conversion system identified by the code alalc:cop-Copt:Latn:2014 (alalc:cop-Copt:Latn:2014)."
+description: null
+specification: []
+examples: []
+notes:
+  - "Source revision marker: 2014"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: alalc:cop-Copt:Latn:2014
+name: "ALA-LC Romanization Table -- Coptic (2014)"
+authority: alalc
+sourceSpelling: cop-Copt
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2014"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

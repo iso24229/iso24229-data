@@ -1,0 +1,30 @@
+uuid: bgnpcgn_chn-Hans_Latn_1979
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:chn-Hans:Latn:1979
+abstract: "The conversion system identified by the code bgnpcgn:chn-Hans:Latn:1979 (bgnpcgn:chn-Hans:Latn:1979)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "BGNPCGNChinese1979"
+    label: "BGN/PCGN 1979 Agreement"
+    title: "Romanization of Chinese -- BGN/PCGN 1979 Agreement"
+    publisher: "Ministry of Defence/PCGN"
+    date: "1979"
+    url: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/693689/ROMANIZATION_OF_CHINESE.pdf
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:chn-Hans:Latn:1979
+name: "BGN/PCGN Agreement Chinese Pinyin (1979)"
+authority: bgnpcgn
+sourceSpelling: chn-Hans
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1979"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Confirmation date: 2017-12"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

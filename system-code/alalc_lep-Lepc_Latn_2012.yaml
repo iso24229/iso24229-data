@@ -1,0 +1,23 @@
+uuid: alalc_lep-Lepc_Latn_2012
+registrationStatus: proposed
+uri: urn:iso:24229:system:alalc:lep-Lepc:Latn:2012
+abstract: "The conversion system identified by the code alalc:lep-Lepc:Latn:2012 (alalc:lep-Lepc:Latn:2012)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: alalc:lep-Lepc:Latn:2012
+name: "ALA-LC Romanization Table -- Lepcha (2012 rev)"
+authority: alalc
+sourceSpelling: lep-Lepc
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2012"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "2012 rev, lep is from 639-3"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

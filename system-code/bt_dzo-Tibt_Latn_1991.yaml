@@ -1,0 +1,23 @@
+uuid: bt_dzo-Tibt_Latn_1991
+registrationStatus: proposed
+uri: urn:iso:24229:system:bt:dzo-Tibt:Latn:1991
+abstract: "The conversion system identified by the code bt:dzo-Tibt:Latn:1991 (bt:dzo-Tibt:Latn:1991)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bt:dzo-Tibt:Latn:1991
+name: "Royal Government of Bhutan, Roman Dzongkha"
+authority: bt
+sourceSpelling: dzo-Tibt
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1991"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Guide to Official Dzongkha Romanization, Dzongkha Development Commission, Royal Government of Bhutan; Script used is Uchen, a form of Tibt"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

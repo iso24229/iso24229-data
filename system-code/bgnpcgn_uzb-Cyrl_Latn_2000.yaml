@@ -1,0 +1,23 @@
+uuid: bgnpcgn_uzb-Cyrl_Latn_2000
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:uzb-Cyrl:Latn:2000
+abstract: "The conversion system identified by the code bgnpcgn:uzb-Cyrl:Latn:2000 (bgnpcgn:uzb-Cyrl:Latn:2000)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:uzb-Cyrl:Latn:2000
+name: "BGN/PCGN Table of Correspondences Uzbek (2000)"
+authority: bgnpcgn
+sourceSpelling: uzb-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2000"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Date approved: 2000; Originator: Govt of Uzbekistan, 1995"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

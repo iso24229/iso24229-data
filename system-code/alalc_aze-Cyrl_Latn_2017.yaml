@@ -1,0 +1,22 @@
+uuid: alalc_aze-Cyrl_Latn_2017
+registrationStatus: proposed
+uri: urn:iso:24229:system:alalc:aze-Cyrl:Latn:2017
+abstract: "The conversion system identified by the code alalc:aze-Cyrl:Latn:2017 (alalc:aze-Cyrl:Latn:2017)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: alalc:aze-Cyrl:Latn:2017
+name: "ALA-LC Romanization Table -- Azerbaijani (2017) -- Cyrillic script"
+authority: alalc
+sourceSpelling: aze-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2017"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

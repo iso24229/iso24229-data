@@ -1,0 +1,23 @@
+uuid: bgnpcgn_ukr-Cyrl_Latn_2019
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:ukr-Cyrl:Latn:2019
+abstract: "The conversion system identified by the code bgnpcgn:ukr-Cyrl:Latn:2019 (bgnpcgn:ukr-Cyrl:Latn:2019)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:ukr-Cyrl:Latn:2019
+name: "BGN/PCGN Agreement Ukrainian (2019)"
+authority: bgnpcgn
+sourceSpelling: ukr-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2019"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Date approved: 2019; NOTE: BGN code `ukr_Cyrl2Latn_BGN_2019`"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

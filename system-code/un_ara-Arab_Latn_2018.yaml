@@ -1,0 +1,23 @@
+uuid: un_ara-Arab_Latn_2018
+registrationStatus: proposed
+uri: urn:iso:24229:system:un:ara-Arab:Latn:2018
+abstract: "The conversion system identified by the code un:ara-Arab:Latn:2018 (un:ara-Arab:Latn:2018)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: un:ara-Arab:Latn:2018
+name: "UN Romanization of Arabic version 5.0"
+authority: un
+sourceSpelling: ara-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2018"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "2018-06-9"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

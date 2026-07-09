@@ -1,0 +1,24 @@
+uuid: bgnpcgn_mkd-Cyrl_Latn_1981
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:mkd-Cyrl:Latn:1981
+abstract: "The conversion system identified by the code bgnpcgn:mkd-Cyrl:Latn:1981 (bgnpcgn:mkd-Cyrl:Latn:1981)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `mkd_Cyrl2Latn_BGN_1981`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:mkd-Cyrl:Latn:1981
+name: "BGN/PCGN Agreement Macedonian (1981)"
+authority: bgnpcgn
+sourceSpelling: mkd-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1981"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

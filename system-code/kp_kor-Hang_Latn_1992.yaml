@@ -1,0 +1,28 @@
+uuid: kp_kor-Hang_Latn_1992
+registrationStatus: proposed
+uri: urn:iso:24229:system:kp:kor-Hang:Latn:1992
+abstract: "The conversion system identified by the code kp:kor-Hang:Latn:1992 (kp:kor-Hang:Latn:1992)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "DPRK1992"
+    label: "Guideline to the Romanization of Korean"
+    title: "Writing Systems and Guides to Pronunciation: Romanization -- Guideline to the Romanization of Korean"
+    publisher: "Working Paper No. 46, Sixth United Nations Conference on the Standardization of Geographical Names"
+    date: "1992"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: kp:kor-Hang:Latn:1992
+name: "Democratic People's Republic of Korea Korean System (1992)"
+authority: kp
+sourceSpelling: kor-Hang
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1992"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

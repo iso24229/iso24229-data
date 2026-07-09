@@ -1,0 +1,24 @@
+uuid: alalc_rue-Cyrl_Latn_2013
+registrationStatus: proposed
+uri: urn:iso:24229:system:alalc:rue-Cyrl:Latn:2013
+abstract: "The conversion system identified by the code alalc:rue-Cyrl:Latn:2013 (alalc:rue-Cyrl:Latn:2013)."
+description: null
+specification: []
+examples: []
+notes:
+  - "Source revision marker: 2013"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: alalc:rue-Cyrl:Latn:2013
+name: "ALA-LC Romanization Table -- Rusyn, Carpatho-Rusyn (2013)"
+authority: alalc
+sourceSpelling: rue-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2013"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

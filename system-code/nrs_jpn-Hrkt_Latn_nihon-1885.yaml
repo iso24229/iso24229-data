@@ -1,0 +1,34 @@
+uuid: nrs_jpn-Hrkt_Latn_nihon-1885
+registrationStatus: proposed
+uri: urn:iso:24229:system:nrs:jpn-Hrkt:Latn:nihon-1885
+abstract: "The conversion system identified by the code nrs:jpn-Hrkt:Latn:nihon-1885 (nrs:jpn-Hrkt:Latn:nihon-1885)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "NRSTanakadate"
+    label: "Nihon-siki Rômazi"
+    title: "理學協會雜誌を羅馬字にて發兌するの發議及び羅馬字用法意見. 田中館愛橘 (Tanakadate-Aikitu). In: 理学協会雑誌"
+    publisher: "第16巻. 1885"
+    date: "1885"
+  - id: "JRARSES"
+    label: "Japan Road Association Road Sign Establishment Standard"
+    title: "Road Sign Establishment Standard (道路標識設置基準). Tokyo"
+    publisher: "Japan Road Association"
+    date: "1987"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: nrs:jpn-Hrkt:Latn:nihon-1885
+name: "Nippon-no-Rômazi-Sya Nihon-siki System"
+authority: nrs
+sourceSpelling: jpn-Hrkt
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "nihon-1885"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Date published: 1885 in Nihon-siki Rômazi"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

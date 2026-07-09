@@ -1,0 +1,31 @@
+uuid: royin_tha-Thai_Latn_1999
+registrationStatus: proposed
+uri: urn:iso:24229:system:royin:tha-Thai:Latn:1999
+abstract: "The conversion system identified by the code royin:tha-Thai:Latn:1999 (royin:tha-Thai:Latn:1999)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "ThaiLatn"
+    label: "Royal Thai General System of Transcription"
+    title: "Royal Thai General System of Transcription 1999"
+    publisher: "Office of the Royal Society of Thailand"
+    date: "1999"
+    url: https://web.archive.org/web/20180619010451/http://www.royin.go.th/wp-content/uploads/2015/03/416_2157.pdf
+notes:
+  - "OGC 11-122r1 code `tir_Thai2Latn_RIT_2000`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: royin:tha-Thai:Latn:1999
+name: "Royal Thai General System of Transcription (1999)"
+authority: royin
+sourceSpelling: tha-Thai
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1999"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

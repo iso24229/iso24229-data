@@ -1,0 +1,18 @@
+# JSON Schema for system-relation-type entries.
+
+$schema: https://json-schema.org/draft/2020-12/schema
+$id: https://iso24229.org/schemas/register/system-relation-type.schema.yaml
+title: System Relation Type
+type: object
+additionalProperties: false
+required: [uuid, systemRelationType, registrationStatus, createdAt, updatedAt]
+properties:
+  uuid: { type: string, minLength: 1 }
+  systemRelationType: { type: string, minLength: 1 }
+  registrationStatus:
+    type: string
+    enum: [proposed, accepted, notAccepted, withdrawn, superseded, retired]
+    description: ISO 19135 registration lifecycle state for this entry.
+  remarks: { type: string }
+  createdAt: { type: string, format: date-time }
+  updatedAt: { type: string, format: date-time }

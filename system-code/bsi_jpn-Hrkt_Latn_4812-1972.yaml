@@ -1,0 +1,28 @@
+uuid: bsi_jpn-Hrkt_Latn_4812-1972
+registrationStatus: proposed
+uri: urn:iso:24229:system:bsi:jpn-Hrkt:Latn:4812-1972
+abstract: "The conversion system identified by the code bsi:jpn-Hrkt:Latn:4812-1972 (bsi:jpn-Hrkt:Latn:4812-1972)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "BS4812-1972"
+    label: "BS 4812:1972"
+    title: "Specification for the romanization of Japanese"
+    publisher: "British Standards Institution"
+    date: "1972"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bsi:jpn-Hrkt:Latn:4812-1972
+name: "BS 4812:1972 Specification for the romanization of Japanese"
+authority: bsi
+sourceSpelling: jpn-Hrkt
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "4812-1972"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

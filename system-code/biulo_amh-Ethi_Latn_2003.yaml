@@ -1,0 +1,30 @@
+uuid: biulo_amh-Ethi_Latn_2003
+registrationStatus: proposed
+uri: urn:iso:24229:system:biulo:amh-Ethi:Latn:2003
+abstract: "The conversion system identified by the code biulo:amh-Ethi:Latn:2003 (biulo:amh-Ethi:Latn:2003)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "AmhLatBIULO2003"
+    label: "Systeme de transcription des caracteres ethiopiens adopte par la BIULO"
+    title: "Systeme de transcription des caracteres ethiopiens adopte par la Bibliotheque Inter-Universitaire des Langues Orientales pour le catalogage des ouvrages ethiopiens"
+    publisher: "BIULO, 2003-12"
+    date: "2003"
+    url: https://web.archive.org/web/20130528012957/http://www.bulac.fr/fileadmin/fichiers/web-illustrations/pages/catalogue/SYLLABAIRE_AMHARIQUE.pdf
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: biulo:amh-Ethi:Latn:2003
+name: "Systeme de transcription des caracteres ethiopiens adopte par la Bibliotheque Inter-Universitaire des Langues Orientales pour le catalogage des ouvrages ethiopiens"
+authority: biulo
+sourceSpelling: amh-Ethi
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2003"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "2003-12"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

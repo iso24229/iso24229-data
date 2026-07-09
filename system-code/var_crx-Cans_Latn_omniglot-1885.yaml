@@ -1,0 +1,27 @@
+uuid: var_crx-Cans_Latn_omniglot-1885
+registrationStatus: proposed
+uri: urn:iso:24229:system:var:crx-Cans:Latn:omniglot-1885
+abstract: "The conversion system identified by the code var:crx-Cans:Latn:omniglot-1885 (var:crx-Cans:Latn:omniglot-1885)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "CrxCAS"
+    label: "Canadian Aboriginal Syllabics for Dakelh (Carrier)"
+    title: "Carrier (Dakeł / ᑕᗸᒡ)"
+    url: https://www.omniglot.com/writing/carrier.htm
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: var:crx-Cans:Latn:omniglot-1885
+name: "Dakelh (Carrier) Canadian Aboriginal Syllabics System"
+authority: var
+sourceSpelling: crx-Cans
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "omniglot-1885"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

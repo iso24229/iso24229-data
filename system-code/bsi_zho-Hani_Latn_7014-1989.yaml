@@ -1,0 +1,28 @@
+uuid: bsi_zho-Hani_Latn_7014-1989
+registrationStatus: proposed
+uri: urn:iso:24229:system:bsi:zho-Hani:Latn:7014-1989
+abstract: "The conversion system identified by the code bsi:zho-Hani:Latn:7014-1989 (bsi:zho-Hani:Latn:7014-1989)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "BS7014-1989"
+    label: "BS 7014:1989"
+    title: "Guide to the romanization of Chinese"
+    publisher: "British Standards Institution"
+    date: "1989"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bsi:zho-Hani:Latn:7014-1989
+name: "BS 7014:1989 Guide to the romanization of Chinese"
+authority: bsi
+sourceSpelling: zho-Hani
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "7014-1989"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

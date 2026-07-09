@@ -1,0 +1,28 @@
+uuid: bsi_chu-Cyrl_Latn_2979-1958
+registrationStatus: proposed
+uri: urn:iso:24229:system:bsi:chu-Cyrl:Latn:2979-1958
+abstract: "The conversion system identified by the code bsi:chu-Cyrl:Latn:2979-1958 (bsi:chu-Cyrl:Latn:2979-1958)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "BS2979-1958"
+    label: "BS 2979:1958"
+    title: "Transliteration of Cyrillic and Greek characters"
+    publisher: "British Standards Institution"
+    date: "1958"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bsi:chu-Cyrl:Latn:2979-1958
+name: "BS 2979:1958 Transliteration of Cyrillic and Greek characters"
+authority: bsi
+sourceSpelling: chu-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2979-1958"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

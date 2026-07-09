@@ -1,0 +1,27 @@
+uuid: var_cre-Cans_Latn_omniglot-1840
+registrationStatus: proposed
+uri: urn:iso:24229:system:var:cre-Cans:Latn:omniglot-1840
+abstract: "The conversion system identified by the code var:cre-Cans:Latn:omniglot-1840 (var:cre-Cans:Latn:omniglot-1840)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "CreCAS"
+    label: "Canadian Aboriginal Syllabics for Cree"
+    title: "Cree (ᓀᐦᐃᔭᐍᐏᐣ / Nēhiyawēwin)"
+    url: https://www.omniglot.com/writing/cree.htm
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: var:cre-Cans:Latn:omniglot-1840
+name: "Cree Canadian Aboriginal Syllabics System"
+authority: var
+sourceSpelling: cre-Cans
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "omniglot-1840"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

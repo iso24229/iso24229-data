@@ -1,0 +1,23 @@
+uuid: bgnpcgn_kor-Kore_Latn_kr-2011
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:kor-Kore:Latn:kr-2011
+abstract: "The conversion system identified by the code bgnpcgn:kor-Kore:Latn:kr-2011 (bgnpcgn:kor-Kore:Latn:kr-2011)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:kor-Kore:Latn:kr-2011
+name: "BGN/PCGN Agreement Korean Ministry of Culture and Tourism (for Republic of Korea) (2011)"
+authority: bgnpcgn
+sourceSpelling: kor-Kore
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "kr-2011"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Date approved: 2011; Originator: Ministry of Culture and Tourism, ROK, 2000"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

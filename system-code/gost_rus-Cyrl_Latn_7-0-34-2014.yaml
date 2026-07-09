@@ -1,0 +1,30 @@
+uuid: gost_rus-Cyrl_Latn_7-0-34-2014
+registrationStatus: proposed
+uri: urn:iso:24229:system:gost:rus-Cyrl:Latn:7-0-34-2014
+abstract: "The conversion system identified by the code gost:rus-Cyrl:Latn:7-0-34-2014 (gost:rus-Cyrl:Latn:7-0-34-2014)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "GOSTR7034"
+    label: "GOST R 7.0.34-2014"
+    title: "GOST R 7.0.34-2014 System of Standards on Information"
+    publisher: "Librarianship, and Publishing -- Rules for Simplified Transliteration and Practical Transcription of Russian Script by Latin Alphabet, Rosstandart"
+    date: "2000"
+notes:
+  - "OGC 11-122r1 code `rus_Cyrl2Latn_GOST_2000`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: gost:rus-Cyrl:Latn:7-0-34-2014
+name: "GOST R 7.0.34-2014 System of Standards on Information, Librarianship, and Publishing -- Rules for Simplified Transliteration and Practical Transcription of Russian Script by Latin Alphabet"
+authority: gost
+sourceSpelling: rus-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "7-0-34-2014"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

@@ -1,0 +1,31 @@
+uuid: ua_ukr-Cyrl_Latn_1996
+registrationStatus: proposed
+uri: urn:iso:24229:system:ua:ukr-Cyrl:Latn:1996
+abstract: "The conversion system identified by the code ua:ukr-Cyrl:Latn:1996 (ua:ukr-Cyrl:Latn:1996)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "UaUkr1996"
+    label: "Official Ukrainian-English transliteration system"
+    title: "Official Ukrainian-English transliteration system (Decision N 9)"
+    publisher: "Ukrainian Legal Terminology Commission. 1996"
+    date: "1996"
+    url: https://web.archive.org/web/20120214134519/http://www.rada.gov.ua/translit
+notes:
+  - "OGC 11-122r1 code `ukr_Cyrl2Latn_GUP_1996`; Date adopted: 1996-04-19"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: ua:ukr-Cyrl:Latn:1996
+name: "Official Ukrainian-English transliteration system"
+authority: ua
+sourceSpelling: ukr-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1996"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

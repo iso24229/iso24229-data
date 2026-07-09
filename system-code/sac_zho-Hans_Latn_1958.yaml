@@ -1,0 +1,48 @@
+uuid: sac_zho-Hans_Latn_1958
+registrationStatus: proposed
+uri: urn:iso:24229:system:sac:zho-Hans:Latn:1958
+abstract: "The conversion system identified by the code sac:zho-Hans:Latn:1958 (sac:zho-Hans:Latn:1958)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "GBT16159"
+    label: "GB/T 16159-2012"
+    title: "Basic rules of the Chinese phonetic alphabet orthography"
+    publisher: "Standardization Administration of China"
+    date: "2012"
+  - id: "GBT15834"
+    label: "GB/T 15834-2011"
+    title: "General rules for punctuation"
+    publisher: "Standardization Administration of China"
+    date: "2011"
+  - id: "GBT28039"
+    label: "GB/T 28039-2011"
+    title: "Chinese Pinyin Spelling Rules for Chinese Personal Names"
+    publisher: "Standardization Administration of China"
+    date: "2011"
+  - id: "pinyin"
+    label: "Scheme for the Chinese Phonetic Alphabet"
+    title: "Scheme for the Chinese Phonetic Alphabet"
+    publisher: "5th National People's Congress of China"
+    date: "1958"
+  - id: "pingyingeo"
+    label: "Chinese Phonetic Alphabet Spelling Rules for Chinese Geographical Names"
+    title: "The Chinese Phonetic Alphabet Spelling Rules for Chinese Geographical Names (Han-Chinese Geographical Names)"
+    publisher: "published jointly by the China Committee on Geographical Names, China Committee on Writing System Reform, State Bureau of Surveying and Mapping"
+    date: "1984"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: sac:zho-Hans:Latn:1958
+name: "Romanization system for the Chinese phonetic alphabet"
+authority: sac
+sourceSpelling: zho-Hans
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1958"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

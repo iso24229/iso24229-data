@@ -1,0 +1,23 @@
+uuid: bgnpcgn_zho-Hani_Latn_1979
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:zho-Hani:Latn:1979
+abstract: "The conversion system identified by the code bgnpcgn:zho-Hani:Latn:1979 (bgnpcgn:zho-Hani:Latn:1979)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:zho-Hani:Latn:1979
+name: "BGN/PCGN Agreement Chinese Pinyin (1979)"
+authority: bgnpcgn
+sourceSpelling: zho-Hani
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1979"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Date approved: 1979; Originator: Govt of China, 1958"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

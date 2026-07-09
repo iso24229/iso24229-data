@@ -1,0 +1,30 @@
+uuid: gugk_rus-Cyrl_Latn_16876-71-gugk
+registrationStatus: proposed
+uri: urn:iso:24229:system:gugk:rus-Cyrl:Latn:16876-71-gugk
+abstract: "The conversion system identified by the code gugk:rus-Cyrl:Latn:16876-71-gugk (gugk:rus-Cyrl:Latn:16876-71-gugk)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "GUGKON231-13051983"
+    label: "GUGK Order No.231 of 13.05.1983"
+    title: "Methodical Instruction on the Implementation of GOST 16876-71 (ST COMECON 1368-78): Rules for Transliteration of Letters of the Cyrillic Alphabet with Letters of the Latin Alphabet"
+    publisher: "1981 edition, Main Administration of Geodesy and Cartography, Council of Ministers of the USSR (GUGK)"
+    date: "1981"
+notes:
+  - "OGC 11-122r1 code `rus_Cyrl2Latn_GOST_1981`; Developed by GUGK (Main Administration of Geodesy and Cartography of USSR, Главное управление геодезии и картографии)"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: gugk:rus-Cyrl:Latn:16876-71-gugk
+name: gugk:rus-Cyrl:Latn:16876-71-gugk
+authority: gugk
+sourceSpelling: rus-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "16876-71-gugk"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

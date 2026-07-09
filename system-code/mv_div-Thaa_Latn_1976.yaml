@@ -1,0 +1,28 @@
+uuid: mv_div-Thaa_Latn_1976
+registrationStatus: proposed
+uri: urn:iso:24229:system:mv:div-Thaa:Latn:1976
+abstract: "The conversion system identified by the code mv:div-Thaa:Latn:1976 (mv:div-Thaa:Latn:1976)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "MaliLatin"
+    label: "Republic of Maldives Official Romanization System"
+    title: "Republic of Maldives Official Romanization System"
+    publisher: "Republic of Maldives"
+    date: "1976"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: mv:div-Thaa:Latn:1976
+name: "Republic of Maldives Official Romanization System"
+authority: mv
+sourceSpelling: div-Thaa
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1976"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

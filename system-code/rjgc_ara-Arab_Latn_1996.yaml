@@ -1,0 +1,24 @@
+uuid: rjgc_ara-Arab_Latn_1996
+registrationStatus: proposed
+uri: urn:iso:24229:system:rjgc:ara-Arab:Latn:1996
+abstract: "The conversion system identified by the code rjgc:ara-Arab:Latn:1996 (rjgc:ara-Arab:Latn:1996)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `ara_Arab2Latn_RJGC_1996`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: rjgc:ara-Arab:Latn:1996
+name: "Arabic Royal Jordanian Geographic Center 1996 System"
+authority: rjgc
+sourceSpelling: ara-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1996"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

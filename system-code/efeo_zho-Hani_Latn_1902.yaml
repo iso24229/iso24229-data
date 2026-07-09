@@ -1,0 +1,22 @@
+uuid: efeo_zho-Hani_Latn_1902
+registrationStatus: proposed
+uri: urn:iso:24229:system:efeo:zho-Hani:Latn:1902
+abstract: "The conversion system identified by the code efeo:zho-Hani:Latn:1902 (efeo:zho-Hani:Latn:1902)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: efeo:zho-Hani:Latn:1902
+name: "EFEO Chinese Romanization System (1902)"
+authority: efeo
+sourceSpelling: zho-Hani
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1902"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

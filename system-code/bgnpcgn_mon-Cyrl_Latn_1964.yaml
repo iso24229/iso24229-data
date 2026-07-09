@@ -1,0 +1,24 @@
+uuid: bgnpcgn_mon-Cyrl_Latn_1964
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:mon-Cyrl:Latn:1964
+abstract: "The conversion system identified by the code bgnpcgn:mon-Cyrl:Latn:1964 (bgnpcgn:mon-Cyrl:Latn:1964)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `mon_Cyrl2Latn_BGN_1964`; Date approved: 1964"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:mon-Cyrl:Latn:1964
+name: "BGN/PCGN System Mongolian (1964)"
+authority: bgnpcgn
+sourceSpelling: mon-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1964"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

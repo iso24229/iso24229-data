@@ -1,0 +1,24 @@
+uuid: nco_per-Arab_Latn_2004
+registrationStatus: proposed
+uri: urn:iso:24229:system:nco:per-Arab:Latn:2004
+abstract: "The conversion system identified by the code nco:per-Arab:Latn:2004 (nco:per-Arab:Latn:2004)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `fas_Arab2Latn_NCO_2004`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: nco:per-Arab:Latn:2004
+name: "National Cartographic Center of Iran Persia Broad Transcription System (2004)"
+authority: nco
+sourceSpelling: per-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2004"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

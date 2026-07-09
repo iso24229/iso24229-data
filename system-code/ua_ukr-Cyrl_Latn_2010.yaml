@@ -1,0 +1,30 @@
+uuid: ua_ukr-Cyrl_Latn_2010
+registrationStatus: proposed
+uri: urn:iso:24229:system:ua:ukr-Cyrl:Latn:2010
+abstract: "The conversion system identified by the code ua:ukr-Cyrl:Latn:2010 (ua:ukr-Cyrl:Latn:2010)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "UaUkr2010"
+    label: "Transliteration of the Ukrainian Alphabet by Means of the Latin Alphabet"
+    title: "On Normalization of Transliteration of the Ukrainian Alphabet by Means of the Latin Alphabet"
+    publisher: "Resolution No 55, the Cabinet of Ministers of Ukraine. 2010"
+    date: "2010"
+    url: "http://web.archive.org/web/20181031115435/http://zakon1.rada.gov.ua/laws/show/55-2010-%D0%BF"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: ua:ukr-Cyrl:Latn:2010
+name: "Transliteration of the Ukrainian Alphabet by Means of the Latin Alphabet"
+authority: ua
+sourceSpelling: ukr-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2010"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Date adopted: 2010-01-27"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

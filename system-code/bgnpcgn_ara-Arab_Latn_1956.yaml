@@ -1,0 +1,24 @@
+uuid: bgnpcgn_ara-Arab_Latn_1956
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:ara-Arab:Latn:1956
+abstract: "The conversion system identified by the code bgnpcgn:ara-Arab:Latn:1956 (bgnpcgn:ara-Arab:Latn:1956)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `ara_Arab2Latn_BGN_1956`; Date approved: 1956"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:ara-Arab:Latn:1956
+name: "BGN/PCGN System Arabic (1956)"
+authority: bgnpcgn
+sourceSpelling: ara-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1956"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

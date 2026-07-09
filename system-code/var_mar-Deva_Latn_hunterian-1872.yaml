@@ -1,0 +1,22 @@
+uuid: var_mar-Deva_Latn_hunterian-1872
+registrationStatus: proposed
+uri: urn:iso:24229:system:var:mar-Deva:Latn:hunterian-1872
+abstract: "The conversion system identified by the code var:mar-Deva:Latn:hunterian-1872 (var:mar-Deva:Latn:hunterian-1872)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: var:mar-Deva:Latn:hunterian-1872
+name: "Marathi Devanagari Hunterian System"
+authority: var
+sourceSpelling: mar-Deva
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "hunterian-1872"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

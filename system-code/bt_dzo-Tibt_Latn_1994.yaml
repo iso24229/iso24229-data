@@ -1,0 +1,24 @@
+uuid: bt_dzo-Tibt_Latn_1994
+registrationStatus: proposed
+uri: urn:iso:24229:system:bt:dzo-Tibt:Latn:1994
+abstract: "The conversion system identified by the code bt:dzo-Tibt:Latn:1994 (bt:dzo-Tibt:Latn:1994)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `dzo_Tibt2Latn_GBT_1994`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bt:dzo-Tibt:Latn:1994
+name: "Dzongkha Government of Bhutan 1994 System"
+authority: bt
+sourceSpelling: dzo-Tibt
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1994"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

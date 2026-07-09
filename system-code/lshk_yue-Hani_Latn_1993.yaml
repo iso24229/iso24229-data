@@ -1,0 +1,30 @@
+uuid: lshk_yue-Hani_Latn_1993
+registrationStatus: proposed
+uri: urn:iso:24229:system:lshk:yue-Hani:Latn:1993
+abstract: "The conversion system identified by the code lshk:yue-Hani:Latn:1993 (lshk:yue-Hani:Latn:1993)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "LSHKJP"
+    label: "The Linguistic Society of Hong Kong Cantonese Romanisation Scheme"
+    title: "The Linguistic Society of Hong Kong Cantonese Romanisation Scheme"
+    publisher: "The Linguistic Society of Hong Kong"
+    date: "1993"
+    url: https://www.lshk.org/jyutping
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: lshk:yue-Hani:Latn:1993
+name: lshk:yue-Hani:Latn:1993
+authority: lshk
+sourceSpelling: yue-Hani
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1993"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Adoption date: 1993-12"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

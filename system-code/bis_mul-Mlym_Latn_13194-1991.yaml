@@ -1,0 +1,28 @@
+uuid: bis_mul-Mlym_Latn_13194-1991
+registrationStatus: proposed
+uri: urn:iso:24229:system:bis:mul-Mlym:Latn:13194-1991
+abstract: "The conversion system identified by the code bis:mul-Mlym:Latn:13194-1991 (bis:mul-Mlym:Latn:13194-1991)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "IS13194-1991"
+    label: "IS 13194:1991"
+    title: "IS 13194:1991 Indian Standard Indian script code for information interchange -- ISCII"
+    publisher: "Bureau of Indian Standards"
+    date: "2001"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bis:mul-Mlym:Latn:13194-1991
+name: "IS 13194:1991 Indian Standard Indian script code for information interchange -- ISCII -- Roman script transliteration"
+authority: bis
+sourceSpelling: mul-Mlym
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "13194-1991"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

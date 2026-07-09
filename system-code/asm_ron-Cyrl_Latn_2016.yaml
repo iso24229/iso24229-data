@@ -1,0 +1,23 @@
+uuid: asm_ron-Cyrl_Latn_2016
+registrationStatus: proposed
+uri: urn:iso:24229:system:asm:ron-Cyrl:Latn:2016
+abstract: "The conversion system identified by the code asm:ron-Cyrl:Latn:2016 (asm:ron-Cyrl:Latn:2016)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: asm:ron-Cyrl:Latn:2016
+name: "Republic of Moldova Romanization"
+authority: asm
+sourceSpelling: ron-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2016"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Adoption date: 2016-10-17; Note: Adopted by Moldova Order No; 872 on the application of the revised spelling rules as adopted by the Moldovan Academy of Sciences"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

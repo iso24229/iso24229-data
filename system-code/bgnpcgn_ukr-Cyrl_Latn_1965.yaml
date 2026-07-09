@@ -1,0 +1,24 @@
+uuid: bgnpcgn_ukr-Cyrl_Latn_1965
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:ukr-Cyrl:Latn:1965
+abstract: "The conversion system identified by the code bgnpcgn:ukr-Cyrl:Latn:1965 (bgnpcgn:ukr-Cyrl:Latn:1965)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `ukr_Cyrl2Latn_BGN_1965`; Date approved: 1965"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:ukr-Cyrl:Latn:1965
+name: "BGN/PCGN System Ukrainian (1965)"
+authority: bgnpcgn
+sourceSpelling: ukr-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1965"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

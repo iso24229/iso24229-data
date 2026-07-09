@@ -1,0 +1,24 @@
+uuid: bgnpcgn_mya-Mymr_Latn_1970
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:mya-Mymr:Latn:1970
+abstract: "The conversion system identified by the code bgnpcgn:mya-Mymr:Latn:1970 (bgnpcgn:mya-Mymr:Latn:1970)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `nep_Mymr2Latn_BGN_1970`; Date approved: 1970; Originator: Govt of Burma, 1907"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:mya-Mymr:Latn:1970
+name: "BGN/PCGN Agreement Burmese (1970)"
+authority: bgnpcgn
+sourceSpelling: mya-Mymr
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1970"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

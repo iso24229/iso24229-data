@@ -1,0 +1,23 @@
+uuid: mext_jpn-Hrkt_Latn_1937
+registrationStatus: proposed
+uri: urn:iso:24229:system:mext:jpn-Hrkt:Latn:1937
+abstract: "The conversion system identified by the code mext:jpn-Hrkt:Latn:1937 (mext:jpn-Hrkt:Latn:1937)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: mext:jpn-Hrkt:Latn:1937
+name: "System of Romanization for Japanese"
+authority: mext
+sourceSpelling: jpn-Hrkt
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1937"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Adoption date: 1937-09-21; Also called \"`Kokutei`\" system / \"`Kunrei`\" system"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

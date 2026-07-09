@@ -1,0 +1,22 @@
+uuid: ahl_heb-Hebr_Latn_1957
+registrationStatus: proposed
+uri: urn:iso:24229:system:ahl:heb-Hebr:Latn:1957
+abstract: "Rules of Transcription: Romanization of Hebrew (1957) — the Academy of the Hebrew Language's original romanisation system, retained for backwards compatibility after being superseded by the 2011 edition."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: ahl:heb-Hebr:Latn:1957
+name: "Academy of the Hebrew Language -- Rules of Transcription: Romanization of Hebrew (1957)"
+authority: ahl
+sourceSpelling: heb-Hebr
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1957"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

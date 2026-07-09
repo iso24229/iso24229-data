@@ -1,0 +1,28 @@
+uuid: din_mac-Cyrl_Latn_1460-1982
+registrationStatus: proposed
+uri: urn:iso:24229:system:din:mac-Cyrl:Latn:1460-1982
+abstract: "The conversion system identified by the code din:mac-Cyrl:Latn:1460-1982 (din:mac-Cyrl:Latn:1460-1982)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "DIN1460"
+    label: "DIN 1460:1982"
+    title: "Umschrift kyrillischer Alphabete slawischer Sprachen (Conversion of Cyrillic alphabets of Slavic languages)"
+    publisher: "1982-04"
+    date: "1982"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: din:mac-Cyrl:Latn:1460-1982
+name: "DIN 1460:1982 Umschrift kyrillischer Alphabete slawischer Sprachen : conversion of Cyrillic alphabets of Slavic languages (1982-04)"
+authority: din
+sourceSpelling: mac-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1460-1982"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

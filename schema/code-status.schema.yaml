@@ -1,0 +1,22 @@
+# JSON Schema for code-status entries.
+
+$schema: https://json-schema.org/draft/2020-12/schema
+$id: https://iso24229.org/schemas/register/code-status.schema.yaml
+title: Code Status
+type: object
+additionalProperties: false
+required: [uuid, codeStatus, registrationStatus, createdAt, updatedAt]
+properties:
+  uuid:
+    type: string
+    enum: [preferred, proposed, deprecated]
+  codeStatus:
+    type: string
+    enum: [preferred, proposed, deprecated]
+  registrationStatus:
+    type: string
+    enum: [proposed, accepted, notAccepted, withdrawn, superseded, retired]
+    description: ISO 19135 registration lifecycle state for this entry.
+  remarks: { type: string }
+  createdAt: { type: string, format: date-time }
+  updatedAt: { type: string, format: date-time }

@@ -1,0 +1,24 @@
+uuid: bgnpcgn_heb-Hebr_Latn_2018
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:heb-Hebr:Latn:2018
+abstract: "The conversion system identified by the code bgnpcgn:heb-Hebr:Latn:2018 (bgnpcgn:heb-Hebr:Latn:2018)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `heb_Hebr2Latn_BGN_2018`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:heb-Hebr:Latn:2018
+name: "BGN/PCGN Hebrew (2018) Amended System"
+authority: bgnpcgn
+sourceSpelling: heb-Hebr
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2018"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

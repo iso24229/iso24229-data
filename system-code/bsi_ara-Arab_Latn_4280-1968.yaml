@@ -1,0 +1,28 @@
+uuid: bsi_ara-Arab_Latn_4280-1968
+registrationStatus: proposed
+uri: urn:iso:24229:system:bsi:ara-Arab:Latn:4280-1968
+abstract: "The conversion system identified by the code bsi:ara-Arab:Latn:4280-1968 (bsi:ara-Arab:Latn:4280-1968)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "BS4280-1968"
+    label: "BS 4280:1968"
+    title: "Transliteration of Arabic characters"
+    publisher: "British Standards Institution"
+    date: "1968"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bsi:ara-Arab:Latn:4280-1968
+name: "BS 4280:1968 Transliteration of Arabic characters"
+authority: bsi
+sourceSpelling: ara-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "4280-1968"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

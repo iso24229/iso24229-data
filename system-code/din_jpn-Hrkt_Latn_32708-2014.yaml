@@ -1,0 +1,28 @@
+uuid: din_jpn-Hrkt_Latn_32708-2014
+registrationStatus: proposed
+uri: urn:iso:24229:system:din:jpn-Hrkt:Latn:32708-2014
+abstract: "The conversion system identified by the code din:jpn-Hrkt:Latn:32708-2014 (din:jpn-Hrkt:Latn:32708-2014)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "DIN32708"
+    label: "DIN 32708:2014"
+    title: "Information und Dokumentation -- Umschrift des Japanischen (Information and documentation -- Romanization of Japanese)"
+    publisher: "2014-08"
+    date: "2014"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: din:jpn-Hrkt:Latn:32708-2014
+name: "DIN 32708:2014 Information and documentation -- Romanization of Japanese (2014-08)"
+authority: din
+sourceSpelling: jpn-Hrkt
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "32708-2014"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

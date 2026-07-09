@@ -1,0 +1,29 @@
+uuid: bgna_bul-Cyrl_Latn_2006
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgna:bul-Cyrl:Latn:2006
+abstract: "The conversion system identified by the code bgna:bul-Cyrl:Latn:2006 (bgna:bul-Cyrl:Latn:2006)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "BulLatUN2006"
+    label: "Republic of Bulgaria system for transliteration of Bulgarian geographical names with Roman letters"
+    title: "Republic of Bulgaria system for transliteration of Bulgarian geographical names with Roman letters. UNGEGN"
+    date: "2006"
+    url: https://unstats.un.org/unsd/geoinfo/UNGEGN/docs/9th-uncsgn-docs/crp/9th_UNCSGN_e-conf-98-crp-71.pdf
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgna:bul-Cyrl:Latn:2006
+name: "Republic of Bulgaria system for transliteration of Bulgarian geographical names with Roman letters"
+authority: bgna
+sourceSpelling: bul-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2006"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Date adopted: 2006-10-26"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

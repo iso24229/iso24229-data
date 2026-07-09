@@ -1,0 +1,9 @@
+uuid: var
+registrationStatus: proposed
+uri: urn:iso:24229:authority:var
+abstract: "Various systems managed by ISO {docnumber}/AG — a conversion system authority in the ISO 24229 register."
+authorityIdentifier: var
+name: Various systems managed by ISO {docnumber}/AG
+remarks: Initial import at establishment of ISO 24229/RA.
+createdAt: 2026-07-06T00:00:00Z
+updatedAt: 2026-07-06T00:00:00Z

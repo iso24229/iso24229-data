@@ -1,0 +1,24 @@
+uuid: alalc_kor-Kore_Latn_2009
+registrationStatus: proposed
+uri: urn:iso:24229:system:alalc:kor-Kore:Latn:2009
+abstract: "The conversion system identified by the code alalc:kor-Kore:Latn:2009 (alalc:kor-Kore:Latn:2009)."
+description: null
+specification: []
+examples: []
+notes:
+  - "Source revision marker: 2009"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: alalc:kor-Kore:Latn:2009
+name: "ALA-LC Romanization Table -- Korean (2009)"
+authority: alalc
+sourceSpelling: kor-Kore
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2009"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

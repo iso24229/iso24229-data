@@ -1,0 +1,24 @@
+uuid: rs_srp-Cyrl_Latn_1954
+registrationStatus: proposed
+uri: urn:iso:24229:system:rs:srp-Cyrl:Latn:1954
+abstract: "The conversion system identified by the code rs:srp-Cyrl:Latn:1954 (rs:srp-Cyrl:Latn:1954)."
+description: null
+specification: []
+examples: []
+notes:
+  - "The Novi Sad Agreement was signed in December 1954"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: rs:srp-Cyrl:Latn:1954
+name: "Republic of Serbia -- Serbian Latin alphabet"
+authority: rs
+sourceSpelling: srp-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1954"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

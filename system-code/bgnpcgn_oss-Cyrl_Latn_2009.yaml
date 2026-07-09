@@ -1,0 +1,23 @@
+uuid: bgnpcgn_oss-Cyrl_Latn_2009
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:oss-Cyrl:Latn:2009
+abstract: "The conversion system identified by the code bgnpcgn:oss-Cyrl:Latn:2009 (bgnpcgn:oss-Cyrl:Latn:2009)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:oss-Cyrl:Latn:2009
+name: "BGN/PCGN System Ossetian (2009)"
+authority: bgnpcgn
+sourceSpelling: oss-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2009"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Date approved: 2009"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

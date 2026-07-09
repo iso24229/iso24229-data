@@ -1,0 +1,24 @@
+uuid: bgnpcgn_tat-Cyrl_Latn_2005
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:tat-Cyrl:Latn:2005
+abstract: "The conversion system identified by the code bgnpcgn:tat-Cyrl:Latn:2005 (bgnpcgn:tat-Cyrl:Latn:2005)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `tat_Cyrl2Latn_BGN_2005`; Date approved: 2005; Originator: Tatar practice"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:tat-Cyrl:Latn:2005
+name: "BGN/PCGN Table of Correspondences Tatar (2005)"
+authority: bgnpcgn
+sourceSpelling: tat-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2005"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

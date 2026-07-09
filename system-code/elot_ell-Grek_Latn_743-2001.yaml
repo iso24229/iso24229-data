@@ -1,0 +1,26 @@
+uuid: elot_ell-Grek_Latn_743-2001
+registrationStatus: proposed
+uri: urn:iso:24229:system:elot:ell-Grek:Latn:743-2001
+abstract: "The conversion system identified by the code elot:ell-Grek:Latn:743-2001 (elot:ell-Grek:Latn:743-2001)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "ELOT7432001"
+    label: "ELOT 743:2001"
+    title: "Information and documentation -- Conversion of Greek characters into Latin characters"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: elot:ell-Grek:Latn:743-2001
+name: "ELOT 743:2001 Information and documentation -- Conversion of Greek characters into Latin characters"
+authority: elot
+sourceSpelling: ell-Grek
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "743-2001"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

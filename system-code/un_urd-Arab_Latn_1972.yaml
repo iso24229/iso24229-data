@@ -1,0 +1,24 @@
+uuid: un_urd-Arab_Latn_1972
+registrationStatus: proposed
+uri: urn:iso:24229:system:un:urd-Arab:Latn:1972
+abstract: "The conversion system identified by the code un:urd-Arab:Latn:1972 (un:urd-Arab:Latn:1972)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `urd_Arab2Latn_UN_1972`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: un:urd-Arab:Latn:1972
+name: "UN Urdu System (1972)"
+authority: un
+sourceSpelling: urd-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1972"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

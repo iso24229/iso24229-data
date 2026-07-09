@@ -1,0 +1,24 @@
+uuid: alalc_uzb-Arab_Latn_2017
+registrationStatus: proposed
+uri: urn:iso:24229:system:alalc:uzb-Arab:Latn:2017
+abstract: "The conversion system identified by the code alalc:uzb-Arab:Latn:2017 (alalc:uzb-Arab:Latn:2017)."
+description: null
+specification: []
+examples: []
+notes:
+  - "Source revision marker: 2017"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: alalc:uzb-Arab:Latn:2017
+name: "ALA-LC Romanization Table -- Uzbek (2017)"
+authority: alalc
+sourceSpelling: uzb-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2017"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

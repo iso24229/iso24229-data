@@ -1,0 +1,29 @@
+uuid: icao_ukr-Cyrl_Latn_2015
+registrationStatus: proposed
+uri: urn:iso:24229:system:icao:ukr-Cyrl:Latn:2015
+abstract: "The conversion system identified by the code icao:ukr-Cyrl:Latn:2015 (icao:ukr-Cyrl:Latn:2015)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "ICAO9303"
+    label: "ICAO Doc 9303: Machine Readable Travel Documents"
+    title: "Doc 9303: Machine Readable Travel Documents"
+    publisher: "Part 3: Specifications Common to all MRTDs, Seventh Edition"
+    date: "2015"
+    url: https://web.archive.org/web/20260217025613/https://www.icao.int/publications/Documents/9303_p3_cons_en.pdf
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: icao:ukr-Cyrl:Latn:2015
+name: icao:ukr-Cyrl:Latn:2015
+authority: icao
+sourceSpelling: ukr-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2015"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

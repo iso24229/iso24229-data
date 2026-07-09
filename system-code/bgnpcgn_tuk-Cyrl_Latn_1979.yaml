@@ -1,0 +1,24 @@
+uuid: bgnpcgn_tuk-Cyrl_Latn_1979
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:tuk-Cyrl:Latn:1979
+abstract: "The conversion system identified by the code bgnpcgn:tuk-Cyrl:Latn:1979 (bgnpcgn:tuk-Cyrl:Latn:1979)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `tuk_Cyrl2Latn_BGN_1979`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:tuk-Cyrl:Latn:1979
+name: "BGN/PCGN Turkmen Cyrillic System (1979)"
+authority: bgnpcgn
+sourceSpelling: tuk-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1979"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

@@ -1,0 +1,29 @@
+uuid: jra_jpn-Hrkt_Latn_1987
+registrationStatus: proposed
+uri: urn:iso:24229:system:jra:jpn-Hrkt:Latn:1987
+abstract: "The conversion system identified by the code jra:jpn-Hrkt:Latn:1987 (jra:jpn-Hrkt:Latn:1987)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "JRARSES"
+    label: "Japan Road Association Road Sign Establishment Standard"
+    title: "Road Sign Establishment Standard (道路標識設置基準). Tokyo"
+    publisher: "Japan Road Association"
+    date: "1987"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: jra:jpn-Hrkt:Latn:1987
+name: "Japan Road Association Romanization System"
+authority: jra
+sourceSpelling: jpn-Hrkt
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1987"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Adoption date: 1987"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

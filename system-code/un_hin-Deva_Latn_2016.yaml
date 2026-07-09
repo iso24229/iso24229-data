@@ -1,0 +1,23 @@
+uuid: un_hin-Deva_Latn_2016
+registrationStatus: proposed
+uri: urn:iso:24229:system:un:hin-Deva:Latn:2016
+abstract: "The conversion system identified by the code un:hin-Deva:Latn:2016 (un:hin-Deva:Latn:2016)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: un:hin-Deva:Latn:2016
+name: "UN Romanization of Hindi version 4.0"
+authority: un
+sourceSpelling: hin-Deva
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2016"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "2016-03-30"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

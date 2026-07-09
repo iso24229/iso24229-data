@@ -1,0 +1,31 @@
+uuid: bgnpcgn_arm-Armn_Latn_1981
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:arm-Armn:Latn:1981
+abstract: "The conversion system identified by the code bgnpcgn:arm-Armn:Latn:1981 (bgnpcgn:arm-Armn:Latn:1981)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "BGNPCGNArmenian1981"
+    label: "BGN/PCGN 1981 System"
+    title: "Romanization of Armenian -- BGN/PCGN 1981 System"
+    publisher: "Ministry of Defence/PCGN"
+    date: "1981"
+    url: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/810208/ROMANIZATION_OF_ARMENIAN.pdf
+notes:
+  - "OGC 11-122r1 code `hye_Armn2Latn_BGN_1981` and `isl_Armn2Latn_BGN_1981`; Confirmation date: 2019-06; Date approved: 1981"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:arm-Armn:Latn:1981
+name: "BGN/PCGN System Armenian (1981)"
+authority: bgnpcgn
+sourceSpelling: arm-Armn
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1981"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

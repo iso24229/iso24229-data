@@ -1,0 +1,29 @@
+uuid: var_zho-Hani_Latn_yale-1943
+registrationStatus: proposed
+uri: urn:iso:24229:system:var:zho-Hani:Latn:yale-1943
+abstract: "The conversion system identified by the code var:zho-Hani:Latn:yale-1943 (var:zho-Hani:Latn:yale-1943)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "ChineseYale"
+    label: "Dictionary of Spoken Chinese"
+    title: "Dictionary of Spoken Chinese. War Department Technical Manual TM 30-933"
+    publisher: "War Department. 1945. pp. 1, 8"
+    date: "1945"
+    url: https://web.archive.org/web/20250211090108/https://quod.lib.umich.edu/g/genpub/ASJ7483.0001.001/1
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: var:zho-Hani:Latn:yale-1943
+name: "Chinese Yale 1943 System"
+authority: var
+sourceSpelling: zho-Hani
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "yale-1943"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

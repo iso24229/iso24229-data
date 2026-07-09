@@ -1,0 +1,24 @@
+uuid: tm_tuk-Cyrl_Latn_2000
+registrationStatus: proposed
+uri: urn:iso:24229:system:tm:tuk-Cyrl:Latn:2000
+abstract: "The conversion system identified by the code tm:tuk-Cyrl:Latn:2000 (tm:tuk-Cyrl:Latn:2000)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `tuk_Cyrl2Latn_GTX_2000`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: tm:tuk-Cyrl:Latn:2000
+name: "Republic of Turkmenistan Turkmen Cyrillic Table of Correspondences System (2000)"
+authority: tm
+sourceSpelling: tuk-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2000"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

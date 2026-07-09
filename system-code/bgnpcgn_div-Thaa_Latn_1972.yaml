@@ -1,0 +1,24 @@
+uuid: bgnpcgn_div-Thaa_Latn_1972
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:div-Thaa:Latn:1972
+abstract: "The conversion system identified by the code bgnpcgn:div-Thaa:Latn:1972 (bgnpcgn:div-Thaa:Latn:1972)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `div_Thaa2Latn_BGN_1972`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:div-Thaa:Latn:1972
+name: "BGN/PCGN System Maldivian (Divehi) (1972)"
+authority: bgnpcgn
+sourceSpelling: div-Thaa
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1972"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

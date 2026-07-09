@@ -1,0 +1,24 @@
+uuid: bgnpcgn_psi-Arab_Latn_2007
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:psi-Arab:Latn:2007
+abstract: "The conversion system identified by the code bgnpcgn:psi-Arab:Latn:2007 (bgnpcgn:psi-Arab:Latn:2007)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `uas_Arab2Latn_BGN_2007`; Date approved: 2007; Notes: Applicable to Nuristani languages but not represented in ISO 639"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:psi-Arab:Latn:2007
+name: "BGN/PCGN System Afghanistan (2007)"
+authority: bgnpcgn
+sourceSpelling: psi-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2007"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

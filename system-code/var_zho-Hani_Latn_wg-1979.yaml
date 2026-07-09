@@ -1,0 +1,30 @@
+uuid: var_zho-Hani_Latn_wg-1979
+registrationStatus: proposed
+uri: urn:iso:24229:system:var:zho-Hani:Latn:wg-1979
+abstract: "The conversion system identified by the code var:zho-Hani:Latn:wg-1979 (var:zho-Hani:Latn:wg-1979)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "ChineseWGS"
+    label: "A Chinese-English Dictionary"
+    title: "A Chinese-English Dictionary"
+    publisher: "Revised Ed. 2, Herbert A. Giles"
+    date: "1912"
+notes:
+  - "OGC 11-122r1 code `zho_Hani2Latn_WDG_1979`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: var:zho-Hani:Latn:wg-1979
+name: var:zho-Hani:Latn:wg-1979
+authority: var
+sourceSpelling: zho-Hani
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "wg-1979"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

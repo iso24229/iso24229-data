@@ -1,0 +1,28 @@
+uuid: sfs_heb-Hebr_Latn_sfs-5824-1998
+registrationStatus: proposed
+uri: urn:iso:24229:system:sfs:heb-Hebr:Latn:sfs-5824-1998
+abstract: "The conversion system identified by the code sfs:heb-Hebr:Latn:sfs-5824-1998 (sfs:heb-Hebr:Latn:sfs-5824-1998)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "SFS5824-1998"
+    label: "SFS 5824:1998"
+    title: "Heprealaisen kirjaimiston translitteraatio"
+    publisher: "Finnish Standards Association"
+    date: "1998"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: sfs:heb-Hebr:Latn:sfs-5824-1998
+name: sfs:heb-Hebr:Latn:sfs-5824-1998
+authority: sfs
+sourceSpelling: heb-Hebr
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "sfs-5824-1998"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

@@ -1,0 +1,24 @@
+uuid: ammi_per-Arab_Latn_1959
+registrationStatus: proposed
+uri: urn:iso:24229:system:ammi:per-Arab:Latn:1959
+abstract: "The conversion system identified by the code ammi:per-Arab:Latn:1959 (ammi:per-Arab:Latn:1959)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `fas_Arab2Latn_AMMI_1959`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: ammi:per-Arab:Latn:1959
+name: "Afghanistan Ministry of Mines and Industries Transliteration System for Geographic Names in Afghanistan (Yaghubi)"
+authority: ammi
+sourceSpelling: per-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1959"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

@@ -1,0 +1,30 @@
+uuid: bgnpcgn_bul-Cyrl_Latn_2013
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:bul-Cyrl:Latn:2013
+abstract: "The conversion system identified by the code bgnpcgn:bul-Cyrl:Latn:2013 (bgnpcgn:bul-Cyrl:Latn:2013)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "BulBgnpcgn2013"
+    label: "BGN/PCGN Romanization Agreement -- Bulgarian (2013)"
+    title: "BGN/PCGN Romanization Agreement -- Bulgarian (2013). National Geospatial-Intelligence Agency"
+    publisher: "September 2014"
+    date: "2014"
+notes:
+  - "OGC 11-122r1 code `bul_Cyrl2Latn_BGN_2013`; Date approved: 2013; Originator: Govt of Bulgaria, 2009"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:bul-Cyrl:Latn:2013
+name: "BGN/PCGN Agreement Bulgarian (2013)"
+authority: bgnpcgn
+sourceSpelling: bul-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2013"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

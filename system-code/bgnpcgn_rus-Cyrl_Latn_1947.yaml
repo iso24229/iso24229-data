@@ -1,0 +1,24 @@
+uuid: bgnpcgn_rus-Cyrl_Latn_1947
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:rus-Cyrl:Latn:1947
+abstract: "The conversion system identified by the code bgnpcgn:rus-Cyrl:Latn:1947 (bgnpcgn:rus-Cyrl:Latn:1947)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `rus_Cyrl2Latn_BGN_1947`; Date approved: 1947"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:rus-Cyrl:Latn:1947
+name: "BGN/PCGN System Russian (1947)"
+authority: bgnpcgn
+sourceSpelling: rus-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1947"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

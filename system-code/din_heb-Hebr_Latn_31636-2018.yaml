@@ -1,0 +1,28 @@
+uuid: din_heb-Hebr_Latn_31636-2018
+registrationStatus: proposed
+uri: urn:iso:24229:system:din:heb-Hebr:Latn:31636-2018
+abstract: "The conversion system identified by the code din:heb-Hebr:Latn:31636-2018 (din:heb-Hebr:Latn:31636-2018)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "DIN31636"
+    label: "DIN 31636:2018"
+    title: "Information und Dokumentation -- Umschrift des hebräischen Alphabets (Information and documentation -- Romanization of the Hebrew alphabet)"
+    publisher: "2018-10"
+    date: "2018"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: din:heb-Hebr:Latn:31636-2018
+name: "DIN 31636:2018 Information and documentation -- Romanization of the Hebrew alphabet (2018-10)"
+authority: din
+sourceSpelling: heb-Hebr
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "31636-2018"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

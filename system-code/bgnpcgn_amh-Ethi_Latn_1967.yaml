@@ -1,0 +1,24 @@
+uuid: bgnpcgn_amh-Ethi_Latn_1967
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:amh-Ethi:Latn:1967
+abstract: "The conversion system identified by the code bgnpcgn:amh-Ethi:Latn:1967 (bgnpcgn:amh-Ethi:Latn:1967)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `amh_Ethi2Latn_BGN_1967`; Date approved: 1967"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:amh-Ethi:Latn:1967
+name: "BGN/PCGN System Amharic (1967)"
+authority: bgnpcgn
+sourceSpelling: amh-Ethi
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1967"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

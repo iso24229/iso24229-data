@@ -1,0 +1,30 @@
+uuid: yivo_yid-Hebr_Latn_1968
+registrationStatus: proposed
+uri: urn:iso:24229:system:yivo:yid-Hebr:Latn:1968
+abstract: "The conversion system identified by the code yivo:yid-Hebr:Latn:1968 (yivo:yid-Hebr:Latn:1968)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "YIVOAB"
+    label: "YIVO Yiddish Alef-Beys"
+    title: "YIVO Yiddish Alef-Beys"
+    publisher: "YIVO Institute for Jewish Research"
+    date: "1968"
+    url: https://yivo.org/Yiddish-Alphabet
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: yivo:yid-Hebr:Latn:1968
+name: "YIVO system for transcription of Yiddish"
+authority: yivo
+sourceSpelling: yid-Hebr
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1968"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Adoption date: 1968"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

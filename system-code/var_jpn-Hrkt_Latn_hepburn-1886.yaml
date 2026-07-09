@@ -1,0 +1,28 @@
+uuid: var_jpn-Hrkt_Latn_hepburn-1886
+registrationStatus: proposed
+uri: urn:iso:24229:system:var:jpn-Hrkt:Latn:hepburn-1886
+abstract: "The conversion system identified by the code var:jpn-Hrkt:Latn:hepburn-1886 (var:jpn-Hrkt:Latn:hepburn-1886)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "JpnJAED1886"
+    label: "A Japanese-English And English-Japanese Dictionary"
+    title: "A Japanese-English And English-Japanese Dictionary 3rd Edition (和英語林集成 第三版)"
+    publisher: "J. C. Hepburn, Tokyo, Z. P Maruya & Co. Limited (丸善商社)"
+    date: "1886"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: var:jpn-Hrkt:Latn:hepburn-1886
+name: "Traditional Hepburn System"
+authority: var
+sourceSpelling: jpn-Hrkt
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "hepburn-1886"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

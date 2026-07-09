@@ -1,0 +1,28 @@
+uuid: sfs_ara-Arab_Latn_sfs-5755-1993
+registrationStatus: proposed
+uri: urn:iso:24229:system:sfs:ara-Arab:Latn:sfs-5755-1993
+abstract: "The conversion system identified by the code sfs:ara-Arab:Latn:sfs-5755-1993 (sfs:ara-Arab:Latn:sfs-5755-1993)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "SFS5755-1993"
+    label: "SFS 5755:1993"
+    title: "Arabian kielen translitteraatio"
+    publisher: "Finnish Standards Association"
+    date: "1993"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: sfs:ara-Arab:Latn:sfs-5755-1993
+name: sfs:ara-Arab:Latn:sfs-5755-1993
+authority: sfs
+sourceSpelling: ara-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "sfs-5755-1993"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

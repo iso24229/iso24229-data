@@ -1,0 +1,26 @@
+uuid: iso_ara-Arab_Latn_233-1984
+registrationStatus: proposed
+uri: urn:iso:24229:system:iso:ara-Arab:Latn:233-1984
+abstract: "The conversion system identified by the code iso:ara-Arab:Latn:233-1984 (iso:ara-Arab:Latn:233-1984)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "ISO233"
+    label: "ISO 233"
+    title: "Documentation -- Transliteration of Arabic characters into Latin characters"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: iso:ara-Arab:Latn:233-1984
+name: "ISO 233:1984 Documentation -- Transliteration of Arabic characters into Latin characters"
+authority: iso
+sourceSpelling: ara-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "233-1984"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

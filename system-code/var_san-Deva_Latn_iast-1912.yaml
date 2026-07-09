@@ -1,0 +1,28 @@
+uuid: var_san-Deva_Latn_iast-1912
+registrationStatus: proposed
+uri: urn:iso:24229:system:var:san-Deva:Latn:iast-1912
+abstract: "The conversion system identified by the code var:san-Deva:Latn:iast-1912 (var:san-Deva:Latn:iast-1912)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "IAST1912"
+    label: "IAST 1912"
+    title: "Actes du seizième Congrès international des orientalistes"
+    publisher: "session d'Athènes (6-14 avril 1912), Athènes, Imprimerie \"`Hestia`\""
+    date: "1912"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: var:san-Deva:Latn:iast-1912
+name: "IAST Sanskrit Devanagari System"
+authority: var
+sourceSpelling: san-Deva
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "iast-1912"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

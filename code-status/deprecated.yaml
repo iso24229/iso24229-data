@@ -1,0 +1,6 @@
+uuid: deprecated
+registrationStatus: proposed
+codeStatus: deprecated
+remarks: Code is reserved for backwards-compatibility; no longer recommended for new use.
+createdAt: 2026-07-05T00:00:00Z
+updatedAt: 2026-07-05T00:00:00Z

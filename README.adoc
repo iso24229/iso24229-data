@@ -1,0 +1,65 @@
+= ISO 24229 Register
+
+This repository holds the structured data behind the
+https://www.iso24229.org[ISO 24229 Register], operated as an
+ISO 19135-style register by the Registration Authority (RA) designated
+under ISO 24229.
+
+The website at https://www.iso24229.org renders this data; this
+repository is the canonical source.
+
+== Layout
+
+The register is split across seven item classes, each in its own
+top-level directory:
+
+[cols="1,4"]
+|===
+| Directory | Item class
+| `authority/` | Authorities that publish or manage conversion systems
+| `code-status/` | Lifecycle status of a code (stable, proposed, deprecated, withdrawn)
+| `spelling-system/` | Source or target spelling systems (language + script + country + extension)
+| `system-code/ | Writing system conversion systems (the main register entries)
+| `system-relation/ | Relationships between conversion systems (alias, successor, etc.)
+| `system-relation-type/ | Controlled vocabulary for relation types
+| `system-status/` | Lifecycle status of a system (stable, experimental, historical)
+|===
+
+== File format
+
+Each register entry is one YAML file, named after the entry's stable
+identifier (the entry's code, with characters unsafe for filenames
+substituted). The full code (including colons, as defined by ISO 24229
+clause 4) lives inside the YAML's `code` field.
+
+For example, the writing system conversion code `acadsin:zho-Hani:Latn:2002`
+is stored at `system-code/acadsin_zho-Hani_Latn_2002.yaml`:
+
+```yaml
+uuid: acadsin_zho-Hani_Latn_2002
+code: acadsin:zho-Hani:Latn:2002
+name: Academia Sinica -- Chinese Tongyong Pinyin (2002)
+authority: acadsin
+sourceSpelling: zho-Hani
+targetSpelling: Latn
+identifyingSegment: '2002'
+codeStatus: stable
+systemStatus: stable
+remarks: ''
+createdAt: 2026-07-05T00:00:00Z
+updatedAt: 2026-07-05T00:00:00Z
+```
+
+== Versioning
+
+Releases of this repository are tagged using a `YYYY.MM.N` scheme
+(e.g. `2026.07.0`). The website pins to a specific tag via a git
+submodule pointer; bumping the submodule corresponds to publishing a
+new register release.
+
+== Provenance
+
+Initial seed data is derived from the
+https://github.com/CalConnect/csd-transcription-systems[CalConnect
+transcription-systems repository], reformulated to match the
+four-segment colon-form code pattern introduced by ISO 24229.

@@ -1,0 +1,22 @@
+# JSON Schema for system-status entries.
+
+$schema: https://json-schema.org/draft/2020-12/schema
+$id: https://iso24229.org/schemas/register/system-status.schema.yaml
+title: System Status
+type: object
+additionalProperties: false
+required: [uuid, systemStatus, registrationStatus, createdAt, updatedAt]
+properties:
+  uuid:
+    type: string
+    enum: [current, former, inactive]
+  systemStatus:
+    type: string
+    enum: [current, former, inactive]
+  registrationStatus:
+    type: string
+    enum: [proposed, accepted, notAccepted, withdrawn, superseded, retired]
+    description: ISO 19135 registration lifecycle state for this entry.
+  remarks: { type: string }
+  createdAt: { type: string, format: date-time }
+  updatedAt: { type: string, format: date-time }

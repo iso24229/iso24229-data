@@ -1,0 +1,28 @@
+uuid: din_tam-Taml_Latn_33903-2016
+registrationStatus: proposed
+uri: urn:iso:24229:system:din:tam-Taml:Latn:33903-2016
+abstract: "The conversion system identified by the code din:tam-Taml:Latn:33903-2016 (din:tam-Taml:Latn:33903-2016)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "DIN33903"
+    label: "DIN 33903:2016"
+    title: "Information und Dokumentation -- Umschrift Tamil (Information and documentation -- Romanization of Tamil)"
+    publisher: "2016-02"
+    date: "2016"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: din:tam-Taml:Latn:33903-2016
+name: "DIN 33903:2016 Information and documentation -- Romanization of Tamil (2016-02)"
+authority: din
+sourceSpelling: tam-Taml
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "33903-2016"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

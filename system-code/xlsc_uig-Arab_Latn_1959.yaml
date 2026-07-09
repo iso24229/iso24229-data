@@ -1,0 +1,24 @@
+uuid: xlsc_uig-Arab_Latn_1959
+registrationStatus: proposed
+uri: urn:iso:24229:system:xlsc:uig-Arab:Latn:1959
+abstract: "The conversion system identified by the code xlsc:uig-Arab:Latn:1959 (xlsc:uig-Arab:Latn:1959)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `uig_Arab2Latn_XLSC_1959`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: xlsc:uig-Arab:Latn:1959
+name: "XUAR Language and Script Committee Uyghur Pinyin New Script 1959"
+authority: xlsc
+sourceSpelling: uig-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1959"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

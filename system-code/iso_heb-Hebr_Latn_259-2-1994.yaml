@@ -1,0 +1,26 @@
+uuid: iso_heb-Hebr_Latn_259-2-1994
+registrationStatus: proposed
+uri: urn:iso:24229:system:iso:heb-Hebr:Latn:259-2-1994
+abstract: "The conversion system identified by the code iso:heb-Hebr:Latn:259-2-1994 (iso:heb-Hebr:Latn:259-2-1994)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "ISO259-2"
+    label: "ISO 259-2"
+    title: "Documentation -- Transliteration of Hebrew characters into Latin characters. -- Part 2: Simplified transliteration"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: iso:heb-Hebr:Latn:259-2-1994
+name: "ISO 259-2:1994 Documentation -- Transliteration of Hebrew characters into Latin characters. -- Part 2: Simplified transliteration"
+authority: iso
+sourceSpelling: heb-Hebr
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "259-2-1994"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

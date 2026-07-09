@@ -1,0 +1,26 @@
+uuid: iso_kat-Geor_Latn_9984-1996
+registrationStatus: proposed
+uri: urn:iso:24229:system:iso:kat-Geor:Latn:9984-1996
+abstract: "The conversion system identified by the code iso:kat-Geor:Latn:9984-1996 (iso:kat-Geor:Latn:9984-1996)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "ISO9984"
+    label: "ISO 9984"
+    title: "Information and documentation -- Transliteration of Georgian characters into Latin characters"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: iso:kat-Geor:Latn:9984-1996
+name: "ISO 9984:1996 Information and documentation -- Transliteration of Georgian characters into Latin characters"
+authority: iso
+sourceSpelling: kat-Geor
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "9984-1996"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

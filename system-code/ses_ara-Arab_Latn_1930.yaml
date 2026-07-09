@@ -1,0 +1,24 @@
+uuid: ses_ara-Arab_Latn_1930
+registrationStatus: proposed
+uri: urn:iso:24229:system:ses:ara-Arab:Latn:1930
+abstract: "The conversion system identified by the code ses:ara-Arab:Latn:1930 (ses:ara-Arab:Latn:1930)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `ara_Arab2Latn_SES_1930`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: ses:ara-Arab:Latn:1930
+name: "Survey of Egypt Arabic System"
+authority: ses
+sourceSpelling: ara-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1930"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

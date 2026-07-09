@@ -1,0 +1,23 @@
+uuid: un_dzo-Tibt_Latn_2013
+registrationStatus: proposed
+uri: urn:iso:24229:system:un:dzo-Tibt:Latn:2013
+abstract: "The conversion system identified by the code un:dzo-Tibt:Latn:2013 (un:dzo-Tibt:Latn:2013)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: un:dzo-Tibt:Latn:2013
+name: "UN Romanization of Dzongkha version 4.0"
+authority: un
+sourceSpelling: dzo-Tibt
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2013"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "2013-09-24, source script is Uchen, a form of Tibt"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

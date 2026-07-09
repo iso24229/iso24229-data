@@ -1,0 +1,24 @@
+uuid: var_ara-Arab_Latn_buckwater-2002
+registrationStatus: proposed
+uri: urn:iso:24229:system:var:ara-Arab:Latn:buckwater-2002
+abstract: "The conversion system identified by the code var:ara-Arab:Latn:buckwater-2002 (var:ara-Arab:Latn:buckwater-2002)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `ara_Arab2Latn_BUC_2002`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: var:ara-Arab:Latn:buckwater-2002
+name: "Arabic Tim Buckwalter System (2002)"
+authority: var
+sourceSpelling: ara-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "buckwater-2002"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

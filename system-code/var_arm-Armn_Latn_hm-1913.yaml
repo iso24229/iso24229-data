@@ -1,0 +1,30 @@
+uuid: var_arm-Armn_Latn_hm-1913
+registrationStatus: proposed
+uri: urn:iso:24229:system:var:arm-Armn:Latn:hm-1913
+abstract: "The conversion system identified by the code var:arm-Armn:Latn:hm-1913 (var:arm-Armn:Latn:hm-1913)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "ArmHuebschmannMeillet1913"
+    label: "Armenian Hübschmann-Meillet 1913 System"
+    title: "Altarmenisches Elementarbuch"
+    publisher: "Antoine Meillet and Heinrich Hübschmann, Heidelberg, 1913 (2nd edition, 1980)"
+    date: "1980"
+notes:
+  - "Source revision marker: 1913"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: var:arm-Armn:Latn:hm-1913
+name: "Armenian Hübschmann-Meillet 1913 System"
+authority: var
+sourceSpelling: arm-Armn
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "hm-1913"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

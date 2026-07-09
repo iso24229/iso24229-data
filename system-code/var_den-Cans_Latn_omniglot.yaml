@@ -1,0 +1,27 @@
+uuid: var_den-Cans_Latn_omniglot
+registrationStatus: proposed
+uri: urn:iso:24229:system:var:den-Cans:Latn:omniglot
+abstract: "The conversion system identified by the code var:den-Cans:Latn:omniglot (var:den-Cans:Latn:omniglot)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "DenCAS"
+    label: "Canadian Aboriginal Syllabics for Slavey"
+    title: "South Slavey (Dene Zhatıé / ᑌᓀ ᒐ)"
+    url: https://www.omniglot.com/writing/southslavey.htm
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: var:den-Cans:Latn:omniglot
+name: "Slavey Canadian Aboriginal Syllabics System"
+authority: var
+sourceSpelling: den-Cans
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "omniglot"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

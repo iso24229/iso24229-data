@@ -1,0 +1,30 @@
+uuid: bas_rus-Cyrl_Latn_2017-oss
+registrationStatus: proposed
+uri: urn:iso:24229:system:bas:rus-Cyrl:Latn:2017-oss
+abstract: "The conversion system identified by the code bas:rus-Cyrl:Latn:2017-oss (bas:rus-Cyrl:Latn:2017-oss)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "BasRusCyrl"
+    label: "Streamlined Romanization system for Russian Cyrillic"
+    title: "Bulgarian Academy of Sciences"
+    publisher: "IVANOV Lyubomir. (2017). Streamlined Romanization of Russian Cyrillic. In: Contrastive Linguistics. XLII. 66-73"
+    date: "2017"
+    url: https://web.archive.org/web/20260618041954/https://www.researchgate.net/publication/318402098_Streamlined_Romanization_of_Russian_Cyrillic
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bas:rus-Cyrl:Latn:2017-oss
+name: "Streamlined Romanization system for Russian Cyrillic -- Optimized Streamlined System"
+authority: bas
+sourceSpelling: rus-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2017-oss"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Date published: 2017"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

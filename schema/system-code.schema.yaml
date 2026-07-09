@@ -1,0 +1,127 @@
+# JSON Schema for system-code entries.
+
+$schema: https://json-schema.org/draft/2020-12/schema
+$id: https://iso24229.org/schemas/register/system-code.schema.yaml
+title: System Code
+type: object
+additionalProperties: false
+required: [uuid, code, name, uri, abstract, identifyingSegment, codeStatus, systemStatus, registrationStatus, createdAt, updatedAt]
+properties:
+  uuid: { type: string, minLength: 1 }
+  code:
+    type: string
+    pattern: ^[A-Za-z0-9-]+(:[A-Za-z0-9-]+){3}$
+    description: Four colon-separated segments.
+  name: { type: string, minLength: 1 }
+  uri:
+    type: string
+    pattern: ^urn:iso:24229:system:[A-Za-z0-9-]+(:[A-Za-z0-9-]+){3}$
+    description: RFC 5141 URN identifier for this system, e.g. `urn:iso:24229:system:ahl:heb-Hebr:Latn:2011`.
+  abstract:
+    type: string
+    minLength: 1
+    description: Short prose summary of the writing system conversion system (one or two sentences).
+  description:
+    type:
+      - string
+      - 'null'
+    description: Optional longer-form description.
+  specification:
+    type: array
+    description: URLs of authoritative specification documents for the system.
+    items:
+      type: string
+      format: uri
+  examples:
+    type: array
+    description: Example input/output pairs demonstrating the writing system conversion.
+    items:
+      type: object
+      additionalProperties: false
+      required: [input, output]
+      properties:
+        input: { type: string, minLength: 1 }
+        output: { type: string, minLength: 1 }
+        remarks: { type: string }
+  references:
+    type: array
+    description: |
+      Bibliographic references that define or describe this conversion
+      system. The first entry is the defining reference; subsequent
+      entries are supporting material. Each entry is a structured
+      citation with the bibliographic fields that the source
+      cc-transcription-systems entry provides.
+    items:
+      type: object
+      additionalProperties: false
+      required: [id, label, title]
+      properties:
+        id:
+          type: string
+          minLength: 1
+          description: Stable identifier matching the AsciiDoc bibliographic anchor in cc-transcription-systems.
+        label:
+          type: string
+          minLength: 1
+          description: Short label / display title (e.g. `ALA-LC Romanization Tables`, `ISO 9:1995`).
+        title:
+          type: string
+          minLength: 1
+          description: Full title of the work.
+        publisher:
+          type: string
+          description: Publisher or issuing body.
+        date:
+          type: string
+          description: Publication date / year as a free-form string (may include ranges like `1982-04`).
+        url:
+          type: string
+          format: uri
+          description: Canonical URL for the work, if available online.
+  authority:
+    type:
+      - string
+      - 'null'
+  sourceSpelling:
+    type:
+      - string
+      - 'null'
+  sourceScriptCode:
+    type:
+      - string
+      - 'null'
+    pattern: ^[A-Z][a-z]{3}$
+  targetSpelling:
+    type:
+      - string
+      - 'null'
+  targetScriptCode:
+    type:
+      - string
+      - 'null'
+    pattern: ^[A-Z][a-z]{3}$
+  identifyingSegment: { type: string, minLength: 1 }
+  relations:
+    type: array
+    items: { type: string }
+  codeStatus:
+    type: string
+    enum: [preferred, proposed, deprecated]
+  systemStatus:
+    type: string
+    enum: [current, former, inactive]
+  registrationStatus:
+    type: string
+    enum: [proposed, accepted, notAccepted, withdrawn, superseded, retired]
+    description: ISO 19135 registration lifecycle state for this entry.
+  notes:
+    type: array
+    description: Editorial notes (observations, TODOs, cross-references to other systems like OGC).
+    items: { type: string }
+  provenance:
+    type: array
+    description: Provenance entries describing where this register entry came from (e.g. "Initial import at establishment of ISO 24229/RA").
+    items: { type: string }
+  remarks: { type: string }
+  createdAt: { type: string, format: date-time }
+  updatedAt: { type: string, format: date-time }

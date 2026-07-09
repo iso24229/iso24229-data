@@ -1,0 +1,27 @@
+uuid: var_bla-Cans_Latn_omniglot-1888
+registrationStatus: proposed
+uri: urn:iso:24229:system:var:bla-Cans:Latn:omniglot-1888
+abstract: "The conversion system identified by the code var:bla-Cans:Latn:omniglot-1888 (var:bla-Cans:Latn:omniglot-1888)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "BlaCAS"
+    label: "Canadian Aboriginal Syllabics for Blackfoot (Pikanii/Siksika)"
+    title: "Blackfoot (Siksiká / ᓱᖽᐧᖿ)"
+    url: https://www.omniglot.com/writing/blackfoot.htm
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: var:bla-Cans:Latn:omniglot-1888
+name: "Blackfoot (Pikanii/Siksika) Canadian Aboriginal Syllabics System"
+authority: var
+sourceSpelling: bla-Cans
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "omniglot-1888"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

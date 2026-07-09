@@ -1,0 +1,26 @@
+uuid: iso_bul-Cyrl_Latn_Sep-95
+registrationStatus: proposed
+uri: urn:iso:24229:system:iso:bul-Cyrl:Latn:Sep-95
+abstract: "The conversion system identified by the code iso:bul-Cyrl:Latn:Sep-95 (iso:bul-Cyrl:Latn:Sep-95)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "ISO9"
+    label: "ISO 9"
+    title: "Information and documentation -- Transliteration of Cyrillic characters into Latin characters -- Slavic and non-Slavic languages"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: iso:bul-Cyrl:Latn:Sep-95
+name: iso:bul-Cyrl:Latn:Sep-95
+authority: iso
+sourceSpelling: bul-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "Sep-95"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

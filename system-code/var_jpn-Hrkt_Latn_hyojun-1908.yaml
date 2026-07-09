@@ -1,0 +1,29 @@
+uuid: var_jpn-Hrkt_Latn_hyojun-1908
+registrationStatus: proposed
+uri: urn:iso:24229:system:var:jpn-Hrkt:Latn:hyojun-1908
+abstract: "The conversion system identified by the code var:jpn-Hrkt:Latn:hyojun-1908 (var:jpn-Hrkt:Latn:hyojun-1908)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "RHHyojunShiki1908"
+    label: "Hyōjun-shiki Romaji"
+    title: "Hyōjun-shiki Romaji"
+    publisher: "ローマ字ひろめ會 (Romaji Hirome Kai) (Society for the Dissemination of Romanization)"
+    date: "1908"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: var:jpn-Hrkt:Latn:hyojun-1908
+name: "Rōmaji-hiromekai Hyōjun-shiki"
+authority: var
+sourceSpelling: jpn-Hrkt
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "hyojun-1908"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "1908-05-22"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

@@ -1,0 +1,24 @@
+uuid: bgnpcgn_kaz-Cyrl_Latn_1979
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:kaz-Cyrl:Latn:1979
+abstract: "The conversion system identified by the code bgnpcgn:kaz-Cyrl:Latn:1979 (bgnpcgn:kaz-Cyrl:Latn:1979)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `kaz_Cyrl2Latn_BGN_1979`; Date approved: 1979"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:kaz-Cyrl:Latn:1979
+name: "BGN/PCGN System Kazakh (1979)"
+authority: bgnpcgn
+sourceSpelling: kaz-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1979"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

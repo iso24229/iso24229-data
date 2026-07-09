@@ -1,0 +1,26 @@
+uuid: iso_tha-Thai_Latn_11940-1998
+registrationStatus: proposed
+uri: urn:iso:24229:system:iso:tha-Thai:Latn:11940-1998
+abstract: "The conversion system identified by the code iso:tha-Thai:Latn:11940-1998 (iso:tha-Thai:Latn:11940-1998)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "ISO11940"
+    label: "ISO 11940"
+    title: "Information and documentation -- Transliteration of Thai"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: iso:tha-Thai:Latn:11940-1998
+name: "ISO 11940:1998 Information and documentation -- Transliteration of Thai"
+authority: iso
+sourceSpelling: tha-Thai
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "11940-1998"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

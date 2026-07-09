@@ -1,0 +1,28 @@
+uuid: var_kor-Hang_Latn_yale-1942
+registrationStatus: proposed
+uri: urn:iso:24229:system:var:kor-Hang:Latn:yale-1942
+abstract: "The conversion system identified by the code var:kor-Hang:Latn:yale-1942 (var:kor-Hang:Latn:yale-1942)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "KoreanYale"
+    label: "Yale Romanization"
+    title: "\"`Yale Romanization`\". A Reference Grammar of Korean"
+    publisher: "Martin, Samuel E. (1992). Rutland, VT and Tokyo: Charles E. Tuttle Publishing. pp. 8–12. ISBN 0-8048-1887-8"
+    date: "1887"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: var:kor-Hang:Latn:yale-1942
+name: "Korean Yale 1942 System"
+authority: var
+sourceSpelling: kor-Hang
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "yale-1942"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

@@ -1,0 +1,10 @@
+uuid: nrs
+registrationStatus: proposed
+uri: urn:iso:24229:authority:nrs
+abstract: "Nippon-no-Rômazi-Sya — a conversion system authority in the ISO 24229 register."
+authorityIdentifier: nrs
+name: Nippon-no-Rômazi-Sya
+remarks: Imported from cc-transcription-systems. Also known as the Japan
+  Romanization Society. (Pending AG review.)
+createdAt: 2026-07-06T00:00:00Z
+updatedAt: 2026-07-06T00:00:00Z

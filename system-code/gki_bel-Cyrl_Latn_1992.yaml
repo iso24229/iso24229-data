@@ -1,0 +1,24 @@
+uuid: gki_bel-Cyrl_Latn_1992
+registrationStatus: proposed
+uri: urn:iso:24229:system:gki:bel-Cyrl:Latn:1992
+abstract: "The conversion system identified by the code gki:bel-Cyrl:Latn:1992 (gki:bel-Cyrl:Latn:1992)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `bel_Cyrl2Latn_GBO_1992`; Based on GOST 1983"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: gki:bel-Cyrl:Latn:1992
+name: "Byelorussian National Cartographic Authority 1992-3 System"
+authority: gki
+sourceSpelling: bel-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1992"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

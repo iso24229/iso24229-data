@@ -1,0 +1,23 @@
+uuid: bgnpcgn_iku-Cans_Latn_2013
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:iku-Cans:Latn:2013
+abstract: "The conversion system identified by the code bgnpcgn:iku-Cans:Latn:2013 (bgnpcgn:iku-Cans:Latn:2013)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:iku-Cans:Latn:2013
+name: "BGN/PCGN Table of Correspondences Inuktitut (2013)"
+authority: bgnpcgn
+sourceSpelling: iku-Cans
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2013"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Originator: Inuit Cultural Institute, 1976"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

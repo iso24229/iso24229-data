@@ -1,0 +1,30 @@
+uuid: bgnpcgn_per-Arab_Latn_1956
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:per-Arab:Latn:1956
+abstract: "The conversion system identified by the code bgnpcgn:per-Arab:Latn:1956 (bgnpcgn:per-Arab:Latn:1956)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "BGNPCGNPersoArabic1956"
+    label: "BGN/PCGN 1956 System"
+    title: "Romanization of Arabic -- BGN/PCGN 1956 System (Revised Presentation 2019)"
+    publisher: "Ministry of Defence/PCGN"
+    date: "2019"
+    url: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/320079/Arabic_Romanization.pdf
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:per-Arab:Latn:1956
+name: "BGN/PCGN System Arabic (1956)"
+authority: bgnpcgn
+sourceSpelling: per-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1956"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Confirmation date: 2019-06"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

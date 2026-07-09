@@ -1,0 +1,24 @@
+uuid: alalc_mul-Cyrl_Latn_2017
+registrationStatus: proposed
+uri: urn:iso:24229:system:alalc:mul-Cyrl:Latn:2017
+abstract: "The conversion system identified by the code alalc:mul-Cyrl:Latn:2017 (alalc:mul-Cyrl:Latn:2017)."
+description: null
+specification: []
+examples: []
+notes:
+  - "covers languages including: Abazin (1938), Abkhaz (1954), Adygei (1938), Altai (1845 & 1922), Altai (1938), Altai (1944), Avaric (1938), Balkar (1936), Balkar (1939), Bashkir (1939), Buriat (1939), Chechen (1862), Chechen (1908), Chechen (1938), Chukchi (1958), Chuvash (Missionary), Chuvash (1872, modified 1923, 1926, 1933), Chuvash (1938), Dargwa (Uslar), Dargwa (1938), Dungan (1952), Even (1937), Evenki (1937), Evenki (1958), Gagauz—Bulgaria, Gagauz—U.S.S.R. (1957), Gilyak, Ingush (1938), Kabardian (1936), Kabardian (1938), Kalmyk (1927), Kalmyk (1938), Kalmyk (1957), Kara-Kalpak (1940), Kara-Kalpak (revised ca; 1947), Kara-Kalpak (1957), Karachay (1938), Karachay-Balkar, Karelian, Kazakh (1940), Khakass (1893 missionary), Khakass (1924-1927), Khakass (1939), Khanty (1937), Khanty—Shuryshkary Dialect (1952), Khanty—Kazym Dialect (1952), Khanty—Surgut Dialect (1952), Khanty—Vakh Dialect (1952), Komi (1938), Komi (Molodtsov) (1919), Komi-Permyak (Missionary), Komi-Permyak (1938), Koryak, Kumyk (1938), Kyrgyz (1940), Lak (1864), Lak (1938), Lezgian (1938), Lezgian (Uslar), Lithuanian, Mansi (1937), Mansi (1958), Mari—Meadow Dialect (Missionary), Mari—Meadow Dialect (1870s and early Soviet), Mari—Meadow Dialect (1938), Mari—Mountain Dialect (Missionary), Mari—Mountain Dialect (1870s and early Soviet), Mari—Mountain Dialect (1938), Moldovan (Early and 1924), Moldovan (1937), Mongolian (1941-1945), Mordvin—Erzya Dialect (Early missionary), Mordvin—Erzya Dialect (Later missionary), Mordvin—Erzya Dialect (Early Soviet & 1938), Mordvin—Moksha Dialect (Missionary), Mordvin—Moksha Dialect (1923), Mordvin—Moksha Dialect (1938), Nanai, Nenets (1937), Nenets (1958), Nogai (1938), Ossetic—Digor Dialect (1938), Ossetic—Iron Dialect (1938), Romani—Bulgaria, Romani—U.S.S.R., Sami (Missionary), Sami (1937), Selkup (1936), Shor (Missionary), Shor (1927), Shor (1938), Syriac (Modern), Tabasaran (1938), Tajik (1940), Tat, Tatar (1938), Tatar—Crimea, Tatar—Kryashen, Turkmen (1940), Tuvinian, Udekhe, Udmurt (Missionary), Udmurt (Early Soviet and 1937 alphabets), Yakut (1819), Yakut (1851 Böhtlingk), Yuit; 2017"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: alalc:mul-Cyrl:Latn:2017
+name: "ALA-LC Romanization Table -- Non-Slavic Languages (in Cyrillic Script) (2017)"
+authority: alalc
+sourceSpelling: mul-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2017"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

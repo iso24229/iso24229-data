@@ -1,0 +1,24 @@
+uuid: mv_div-Thaa_Latn_1988
+registrationStatus: proposed
+uri: urn:iso:24229:system:mv:div-Thaa:Latn:1988
+abstract: "The conversion system identified by the code mv:div-Thaa:Latn:1988 (mv:div-Thaa:Latn:1988)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `div_Thaa2Latn_GMV_1988`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: mv:div-Thaa:Latn:1988
+name: "Republic of Maldives Official Romanization System 1988"
+authority: mv
+sourceSpelling: div-Thaa
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1988"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

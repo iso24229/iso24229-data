@@ -1,0 +1,23 @@
+uuid: cnt_lao-Laoo_Latn_1965
+registrationStatus: proposed
+uri: urn:iso:24229:system:cnt:lao-Laoo:Latn:1965
+abstract: "The conversion system identified by the code cnt:lao-Laoo:Latn:1965 (cnt:lao-Laoo:Latn:1965)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: cnt:lao-Laoo:Latn:1965
+name: "Lao Commission Nationale de Toponymie (CNT) Transliteration System"
+authority: cnt
+sourceSpelling: lao-Laoo
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1965"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Adoption date: 1965"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

@@ -1,0 +1,24 @@
+uuid: ucis_uig-Arab_Latn_2001
+registrationStatus: proposed
+uri: urn:iso:24229:system:ucis:uig-Arab:Latn:2001
+abstract: "The conversion system identified by the code ucis:uig-Arab:Latn:2001 (ucis:uig-Arab:Latn:2001)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `uig_Arab2Latn_UCIS_2001`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: ucis:uig-Arab:Latn:2001
+name: "Uyghur Computer Information Society Latin Script for Uyghur (2001)"
+authority: ucis
+sourceSpelling: uig-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2001"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

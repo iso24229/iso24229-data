@@ -1,0 +1,23 @@
+uuid: bgnpcgn_khm-Khmr_Latn_1972
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:khm-Khmr:Latn:1972
+abstract: "The conversion system identified by the code bgnpcgn:khm-Khmr:Latn:1972 (bgnpcgn:khm-Khmr:Latn:1972)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:khm-Khmr:Latn:1972
+name: "BGN/PCGN Agreement Khmer (Cambodian) (1972)"
+authority: bgnpcgn
+sourceSpelling: khm-Khmr
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1972"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Date approved: 1972; Originator: Service Géographique Khmère (SGK) 1959, with BGN/PCGN modifications, 1972"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

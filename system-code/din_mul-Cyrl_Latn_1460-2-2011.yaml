@@ -1,0 +1,30 @@
+uuid: din_mul-Cyrl_Latn_1460-2-2011
+registrationStatus: proposed
+uri: urn:iso:24229:system:din:mul-Cyrl:Latn:1460-2-2011
+abstract: "The conversion system identified by the code din:mul-Cyrl:Latn:1460-2-2011 (din:mul-Cyrl:Latn:1460-2-2011)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "DIN1460-2"
+    label: "DIN 1460-2:2011"
+    title: "Umschrift kyrillischer Alphabete -- Teil 2: Umschrift kyrillischer Alphabete nicht-slawischer Sprachen (Romanization of Cyrillic alphabets -- Part 2: Romanization of Cyrillic alphabets of non-slavic languages)"
+    publisher: "2011-10"
+    date: "2011"
+notes:
+  - "Covers 62 languages written in the Cyrillic script"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: din:mul-Cyrl:Latn:1460-2-2011
+name: "DIN 1460-2:2011 Umschrift kyrillischer Alphabete -- Teil 2: Umschrift kyrillischer Alphabete nicht-slawischer Sprachen : Romanization of cyrillic alphabets -- Part 2: Romanization of cyrillic alphabets of non-slavic languages (2011-10)"
+authority: din
+sourceSpelling: mul-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1460-2-2011"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

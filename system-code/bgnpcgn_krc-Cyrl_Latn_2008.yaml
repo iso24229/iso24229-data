@@ -1,0 +1,23 @@
+uuid: bgnpcgn_krc-Cyrl_Latn_2008
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:krc-Cyrl:Latn:2008
+abstract: "The conversion system identified by the code bgnpcgn:krc-Cyrl:Latn:2008 (bgnpcgn:krc-Cyrl:Latn:2008)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:krc-Cyrl:Latn:2008
+name: "BGN/PCGN Table of Correspondences Karachay-Balkar (2008)"
+authority: bgnpcgn
+sourceSpelling: krc-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2008"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Date approved: 2008; Originator: Karachay-Balkar practice"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

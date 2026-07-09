@@ -1,0 +1,24 @@
+uuid: kp_kor-Hang_Latn_2002
+registrationStatus: proposed
+uri: urn:iso:24229:system:kp:kor-Hang:Latn:2002
+abstract: "The conversion system identified by the code kp:kor-Hang:Latn:2002 (kp:kor-Hang:Latn:2002)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `kor_Hang2Latn_GKN_2002`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: kp:kor-Hang:Latn:2002
+name: "Democratic People's Republic of Korea Korean System (2002)"
+authority: kp
+sourceSpelling: kor-Hang
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2002"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

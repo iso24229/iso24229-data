@@ -1,0 +1,65 @@
+# JSON Schema for authority entries.
+
+$schema: https://json-schema.org/draft/2020-12/schema
+$id: https://iso24229.org/schemas/register/authority.schema.yaml
+title: Authority
+type: object
+additionalProperties: false
+required: [uuid, authorityIdentifier, name, uri, abstract, registrationStatus, createdAt, updatedAt]
+properties:
+  uuid:
+    type: string
+    minLength: 1
+  authorityIdentifier:
+    type: string
+    minLength: 1
+    description: Short identifier (e.g. `acadsin`, `BGN-PCGN`).
+  name:
+    type: string
+    minLength: 1
+  uri:
+    type: string
+    pattern: ^urn:iso:24229:authority:[A-Za-z0-9-]+$
+    description: RFC 5141 URN identifier for this authority, e.g. `urn:iso:24229:authority:ahl`.
+  abstract:
+    type: string
+    minLength: 1
+    description: Short prose summary of the authority (one or two sentences).
+  address:
+    type: object
+    additionalProperties: false
+    required: [street, city, country, postalCode]
+    properties:
+      street: { type: string }
+      city: { type: string }
+      country:
+        type: string
+        pattern: ^[A-Z]{2}$
+        description: ISO 3166-1 alpha-2.
+      postalCode: { type: string }
+  contact:
+    type: object
+    additionalProperties: false
+    properties:
+      email: { type: string }
+      url: { type: string }
+  authorisedPersons:
+    type: array
+    minItems: 2
+    maxItems: 2
+    description: Exactly two per ISO 24229 Annex A.4.
+    items:
+      type: object
+      additionalProperties: false
+      required: [name, role, email]
+      properties:
+        name: { type: string, minLength: 1 }
+        role: { type: string, minLength: 1 }
+        email: { type: string, minLength: 1 }
+  registrationStatus:
+    type: string
+    enum: [proposed, accepted, notAccepted, withdrawn, superseded, retired]
+    description: ISO 19135 registration lifecycle state for this entry.
+  remarks: { type: string }
+  createdAt: { type: string, format: date-time }
+  updatedAt: { type: string, format: date-time }

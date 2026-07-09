@@ -1,0 +1,24 @@
+uuid: bgnpcgn_heb-Hebr_Latn_1962
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:heb-Hebr:Latn:1962
+abstract: "The conversion system identified by the code bgnpcgn:heb-Hebr:Latn:1962 (bgnpcgn:heb-Hebr:Latn:1962)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `heb_Hebr2Latn_HAS_1962`; Date approved: 1962; Originator: Hebrew Academy, with BGN/PCGN modifications, 2016"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:heb-Hebr:Latn:1962
+name: "BGN/PCGN Agreement Hebrew (1962)"
+authority: bgnpcgn
+sourceSpelling: heb-Hebr
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1962"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

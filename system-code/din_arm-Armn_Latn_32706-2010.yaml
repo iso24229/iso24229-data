@@ -1,0 +1,28 @@
+uuid: din_arm-Armn_Latn_32706-2010
+registrationStatus: proposed
+uri: urn:iso:24229:system:din:arm-Armn:Latn:32706-2010
+abstract: "The conversion system identified by the code din:arm-Armn:Latn:32706-2010 (din:arm-Armn:Latn:32706-2010)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "DIN32706"
+    label: "DIN 32706:2010"
+    title: "Information und Dokumentation -- Umschrift des armenischen Alphabets (Information and documentation -- Romanization of the Armenian alphabet)"
+    publisher: "2010-01"
+    date: "2010"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: din:arm-Armn:Latn:32706-2010
+name: "DIN 32706:2010 Information and documentation -- Romanization of the Armenian alphabet (2010-01)"
+authority: din
+sourceSpelling: arm-Armn
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "32706-2010"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

@@ -1,0 +1,30 @@
+uuid: dos_nep-Deva_Latn_1997
+registrationStatus: proposed
+uri: urn:iso:24229:system:dos:nep-Deva:Latn:1997
+abstract: "The conversion system identified by the code dos:nep-Deva:Latn:1997 (dos:nep-Deva:Latn:1997)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "TTSN"
+    label: "Transliteration and Translation System for Nepal"
+    title: "Transliteration and Translation System for Nepal"
+    publisher: "Government of Nepal"
+    url: http://nationalgeoportal.gov.np/old/pdf/translation2.pdf
+notes:
+  - "First published in Report on Cartography and Reproduction of Eastern Nepal Topographic Mapping Project"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: dos:nep-Deva:Latn:1997
+name: "Government of Nepal -- Transliteration and Translation System for Nepal"
+authority: dos
+sourceSpelling: nep-Deva
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1997"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

@@ -1,0 +1,23 @@
+uuid: ma_ara-Arab_Latn_1932
+registrationStatus: proposed
+uri: urn:iso:24229:system:ma:ara-Arab:Latn:1932
+abstract: "The conversion system identified by the code ma:ara-Arab:Latn:1932 (ma:ara-Arab:Latn:1932)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: ma:ara-Arab:Latn:1932
+name: "Kingdom of Morocco Arabic Romanization System"
+authority: ma
+sourceSpelling: ara-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1932"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "1932-06-17"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

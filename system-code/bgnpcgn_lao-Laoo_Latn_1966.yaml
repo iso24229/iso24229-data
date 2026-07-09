@@ -1,0 +1,24 @@
+uuid: bgnpcgn_lao-Laoo_Latn_1966
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:lao-Laoo:Latn:1966
+abstract: "The conversion system identified by the code bgnpcgn:lao-Laoo:Latn:1966 (bgnpcgn:lao-Laoo:Latn:1966)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `lao_Laoo2Latn_CNT_1966`; Date approved: 1966; Originator: Lao Commission Nationale de Toponymie (CNT), 1965"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:lao-Laoo:Latn:1966
+name: "BGN/PCGN Agreement Lao (1966)"
+authority: bgnpcgn
+sourceSpelling: lao-Laoo
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1966"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

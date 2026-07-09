@@ -1,0 +1,26 @@
+uuid: iso_tha-Thai_Latn_20674-1-2019
+registrationStatus: proposed
+uri: urn:iso:24229:system:iso:tha-Thai:Latn:20674-1-2019
+abstract: "The conversion system identified by the code iso:tha-Thai:Latn:20674-1-2019 (iso:tha-Thai:Latn:20674-1-2019)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "ISO20674-1"
+    label: "ISO 20674-1"
+    title: "Transliteration of scripts in use in Thailand -- Part 1: Transliteration of Akson-Thai-Noi"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: iso:tha-Thai:Latn:20674-1-2019
+name: "ISO 20674-1 Transliteration of scripts in use in Thailand -- Part 1: Transliteration of Akson-Thai-Noi"
+authority: iso
+sourceSpelling: tha-Thai
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "20674-1-2019"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

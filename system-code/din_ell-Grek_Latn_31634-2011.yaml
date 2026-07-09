@@ -1,0 +1,28 @@
+uuid: din_ell-Grek_Latn_31634-2011
+registrationStatus: proposed
+uri: urn:iso:24229:system:din:ell-Grek:Latn:31634-2011
+abstract: "The conversion system identified by the code din:ell-Grek:Latn:31634-2011 (din:ell-Grek:Latn:31634-2011)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "DIN31634"
+    label: "DIN 31634:2011"
+    title: "Information und Dokumentation -- Umschrift des griechischen Alphabets (Information and Documentation -- Romanization of the Greek alphabet)"
+    publisher: "2011-10"
+    date: "2011"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: din:ell-Grek:Latn:31634-2011
+name: "DIN 31634:2011 Information and Documentation -- Romanization of the Greek alphabet (2011-10)"
+authority: din
+sourceSpelling: ell-Grek
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "31634-2011"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

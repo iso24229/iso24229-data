@@ -1,0 +1,24 @@
+uuid: az_aze-Cyrl_Latn_1991
+registrationStatus: proposed
+uri: urn:iso:24229:system:az:aze-Cyrl:Latn:1991
+abstract: "The conversion system identified by the code az:aze-Cyrl:Latn:1991 (az:aze-Cyrl:Latn:1991)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `aze_Cyrl2Latn_GAZ_1991`; Azerbaijan's Milli Majlis (Parliament) adopted decree on conversion from Cyrillic to Latin script on December 25, 1991"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: az:aze-Cyrl:Latn:1991
+name: "Azerbijian Government -- Alphabet Transition from Cyrillic to Latin"
+authority: az
+sourceSpelling: aze-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1991"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

@@ -1,0 +1,29 @@
+uuid: ansi_jpn-Hrkt_Latn_z39-11-1972
+registrationStatus: proposed
+uri: urn:iso:24229:system:ansi:jpn-Hrkt:Latn:z39-11-1972
+abstract: "The conversion system identified by the code ansi:jpn-Hrkt:Latn:z39-11-1972 (ansi:jpn-Hrkt:Latn:z39-11-1972)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "ANSIZ39.11"
+    label: "ANSI Z39.11-1972"
+    title: "ANSI Z39.11-1972 American National Standard System for the Romanization of Japanese. New York"
+    publisher: "American National Standards Institute"
+    date: "1972"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: ansi:jpn-Hrkt:Latn:z39-11-1972
+name: "ANSI Z39.11-1972 American National Standard System for the Romanization of Japanese"
+authority: ansi
+sourceSpelling: jpn-Hrkt
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "z39-11-1972"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Adoption date: 1972"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

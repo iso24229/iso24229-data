@@ -1,0 +1,23 @@
+uuid: bgnpcgn_dzo-Tibt_Latn_2010
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:dzo-Tibt:Latn:2010
+abstract: "The conversion system identified by the code bgnpcgn:dzo-Tibt:Latn:2010 (bgnpcgn:dzo-Tibt:Latn:2010)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:dzo-Tibt:Latn:2010
+name: "BGN/PCGN Agreement Dzongkha (2010)"
+authority: bgnpcgn
+sourceSpelling: dzo-Tibt
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2010"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Date approved: 2010; Originator: Govt of Bhutan, 1997"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

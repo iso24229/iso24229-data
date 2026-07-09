@@ -1,0 +1,24 @@
+uuid: bgnpcgn_sme-Latn_Latn_1984
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:sme-Latn:Latn:1984
+abstract: "The conversion system identified by the code bgnpcgn:sme-Latn:Latn:1984 (bgnpcgn:sme-Latn:Latn:1984)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `sme_Latn2Latn_BGN_1984`; Date approved: 1984; Originator: Northern Sami orthography"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:sme-Latn:Latn:1984
+name: "BGN/PCGN Roman Script Spelling Convention Northern Sami (1984)"
+authority: bgnpcgn
+sourceSpelling: sme-Latn
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1984"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

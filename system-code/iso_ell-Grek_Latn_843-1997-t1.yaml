@@ -1,0 +1,26 @@
+uuid: iso_ell-Grek_Latn_843-1997-t1
+registrationStatus: proposed
+uri: urn:iso:24229:system:iso:ell-Grek:Latn:843-1997-t1
+abstract: "The conversion system identified by the code iso:ell-Grek:Latn:843-1997-t1 (iso:ell-Grek:Latn:843-1997-t1)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "ISO843"
+    label: "ISO 843"
+    title: "Information and documentation -- Conversion of Greek characters into Latin characters"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: iso:ell-Grek:Latn:843-1997-t1
+name: "ISO 843:1997 Information and documentation -- Conversion of Greek characters into Latin characters"
+authority: iso
+sourceSpelling: ell-Grek
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "843-1997-t1"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

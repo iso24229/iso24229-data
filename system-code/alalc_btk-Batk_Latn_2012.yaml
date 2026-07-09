@@ -1,0 +1,24 @@
+uuid: alalc_btk-Batk_Latn_2012
+registrationStatus: proposed
+uri: urn:iso:24229:system:alalc:btk-Batk:Latn:2012
+abstract: "The conversion system identified by the code alalc:btk-Batk:Latn:2012 (alalc:btk-Batk:Latn:2012)."
+description: null
+specification: []
+examples: []
+notes:
+  - "Source revision marker: 2012"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: alalc:btk-Batk:Latn:2012
+name: "ALA-LC Romanization Table -- Batak (2012)"
+authority: alalc
+sourceSpelling: btk-Batk
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2012"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

@@ -1,0 +1,31 @@
+uuid: alalc_snd-Arab_Latn_1997
+registrationStatus: proposed
+uri: urn:iso:24229:system:alalc:snd-Arab:Latn:1997
+abstract: "The conversion system identified by the code alalc:snd-Arab:Latn:1997 (alalc:snd-Arab:Latn:1997)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "ALALCTables"
+    label: "ALA-LC Romanization Tables"
+    title: "ALA-LC Romanization Tables: Transliteration Schemes for Non-Roman Scripts"
+    publisher: "The Library of Congress"
+    date: "1997"
+    url: https://www.loc.gov/catdir/cpso/roman.html
+notes:
+  - "OGC 11-122r1 code `snd_Arab2Latn_ALA_1997`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: alalc:snd-Arab:Latn:1997
+name: "ALA-LC Romanization Table -- Sindhi (1997)"
+authority: alalc
+sourceSpelling: snd-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1997"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

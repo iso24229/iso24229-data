@@ -1,0 +1,28 @@
+uuid: sfs_sla-Cyrl_Latn_sfs-4900-1998
+registrationStatus: proposed
+uri: urn:iso:24229:system:sfs:sla-Cyrl:Latn:sfs-4900-1998
+abstract: "The conversion system identified by the code sfs:sla-Cyrl:Latn:sfs-4900-1998 (sfs:sla-Cyrl:Latn:sfs-4900-1998)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "SFS4900-1998"
+    label: "SFS 4900:1998"
+    title: "Kyrillisten kirjainten translitterointi. Slaavilaiset kielet"
+    publisher: "Finnish Standards Association"
+    date: "1998"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: sfs:sla-Cyrl:Latn:sfs-4900-1998
+name: sfs:sla-Cyrl:Latn:sfs-4900-1998
+authority: sfs
+sourceSpelling: sla-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "sfs-4900-1998"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

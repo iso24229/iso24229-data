@@ -1,0 +1,24 @@
+uuid: alalc_hin-Deva_Latn_2011
+registrationStatus: proposed
+uri: urn:iso:24229:system:alalc:hin-Deva:Latn:2011
+abstract: "The conversion system identified by the code alalc:hin-Deva:Latn:2011 (alalc:hin-Deva:Latn:2011)."
+description: null
+specification: []
+examples: []
+notes:
+  - "Source revision marker: 2011"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: alalc:hin-Deva:Latn:2011
+name: "ALA-LC Romanization Table -- Hindi (2011)"
+authority: alalc
+sourceSpelling: hin-Deva
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2011"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

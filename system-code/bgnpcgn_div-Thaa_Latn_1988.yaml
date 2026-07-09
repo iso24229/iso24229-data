@@ -1,0 +1,23 @@
+uuid: bgnpcgn_div-Thaa_Latn_1988
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:div-Thaa:Latn:1988
+abstract: "The conversion system identified by the code bgnpcgn:div-Thaa:Latn:1988 (bgnpcgn:div-Thaa:Latn:1988)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:div-Thaa:Latn:1988
+name: "BGN/PCGN Agreement Maldivian (1988)"
+authority: bgnpcgn
+sourceSpelling: div-Thaa
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1988"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Date approved: 1988; Originator: Govt of Maldives, 1987"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

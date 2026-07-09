@@ -1,0 +1,28 @@
+uuid: mlmupc_khm-Khmr_Latn_1997
+registrationStatus: proposed
+uri: urn:iso:24229:system:mlmupc:khm-Khmr:Latn:1997
+abstract: "The conversion system identified by the code mlmupc:khm-Khmr:Latn:1997 (mlmupc:khm-Khmr:Latn:1997)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "KhmrLatn"
+    label: "Geographic Department Transcription System for Khmer"
+    title: "Geographic Department of the Ministry of Land Management"
+    publisher: "Urban Planning and Construction of Cambodia, Transcription System for Khmer, UNGEGN"
+    url: https://unstats.un.org/unsd/geoinfo/UNGEGN/docs/8th-uncsgn-docs/inf/8th_UNCSGN_econf.94_INF.30.pdf
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: mlmupc:khm-Khmr:Latn:1997
+name: "Transcription System for Khmer"
+authority: mlmupc
+sourceSpelling: khm-Khmr
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1997"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

@@ -1,0 +1,29 @@
+uuid: var_jpn-Hrkt_Latn_hepburn-1867
+registrationStatus: proposed
+uri: urn:iso:24229:system:var:jpn-Hrkt:Latn:hepburn-1867
+abstract: "The conversion system identified by the code var:jpn-Hrkt:Latn:hepburn-1867 (var:jpn-Hrkt:Latn:hepburn-1867)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "JpnJED1867"
+    label: "A Japanese and English Dictionary: with an English and Japanese Index"
+    title: "A Japanese and English Dictionary: with an English and Japanese Index (first edition)"
+    publisher: "J. C. Hepburn, London: Trübner & Co."
+    date: "1867"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: var:jpn-Hrkt:Latn:hepburn-1867
+name: "Hepburn System"
+authority: var
+sourceSpelling: jpn-Hrkt
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "hepburn-1867"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "1867-12-31"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

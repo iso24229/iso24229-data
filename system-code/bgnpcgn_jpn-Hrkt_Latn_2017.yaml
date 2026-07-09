@@ -1,0 +1,23 @@
+uuid: bgnpcgn_jpn-Hrkt_Latn_2017
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:jpn-Hrkt:Latn:2017
+abstract: "The conversion system identified by the code bgnpcgn:jpn-Hrkt:Latn:2017 (bgnpcgn:jpn-Hrkt:Latn:2017)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:jpn-Hrkt:Latn:2017
+name: "BGN/PCGN Agreement Japanese Kana (2017)"
+authority: bgnpcgn
+sourceSpelling: jpn-Hrkt
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2017"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Date approved: 2017; Originator: J.C. Hepburn, 1867"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

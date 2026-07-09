@@ -1,0 +1,28 @@
+uuid: mk_mkd-Cyrl_Latn_1970
+registrationStatus: proposed
+uri: urn:iso:24229:system:mk:mkd-Cyrl:Latn:1970
+abstract: "The conversion system identified by the code mk:mkd-Cyrl:Latn:1970 (mk:mkd-Cyrl:Latn:1970)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "MkLatn"
+    label: "Macedonian Latin alphabet"
+    title: "Macedonian Latin alphabet. B.Vidoeski"
+    publisher: "T.Dimitrovski, K.Koneski, K.Tošev, R.Ugrinova Skalovska. In: Pravopis na makedonskiot literaturen jazik. Skopje, Prosvetno delo"
+    date: "1970"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: mk:mkd-Cyrl:Latn:1970
+name: "Republic of North Macedonia -- Transliteration of Macedonian Cyrillic into Latin"
+authority: mk
+sourceSpelling: mkd-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1970"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

@@ -1,0 +1,28 @@
+uuid: var_jpn-Hrkt_Latn_hepburn-1974
+registrationStatus: proposed
+uri: urn:iso:24229:system:var:jpn-Hrkt:Latn:hepburn-1974
+abstract: "The conversion system identified by the code var:jpn-Hrkt:Latn:hepburn-1974 (var:jpn-Hrkt:Latn:hepburn-1974)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "JpnKNJED1974"
+    label: "Japanese Modified Hepburn 1974 System"
+    title: "New Japanese-English Dictionary 4th edition (新和英大辞典　第四版)"
+    publisher: "株式会社研究社 (Kenkyusha Co., Ltd.), ISBN 978-0-7859-7128-3"
+    date: "1974"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: var:jpn-Hrkt:Latn:hepburn-1974
+name: "Modified Hepburn System"
+authority: var
+sourceSpelling: jpn-Hrkt
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "hepburn-1974"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

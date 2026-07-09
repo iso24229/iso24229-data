@@ -1,0 +1,22 @@
+uuid: msst_tuk-Cyrl_Latn_1999
+registrationStatus: proposed
+uri: urn:iso:24229:system:msst:tuk-Cyrl:Latn:1999
+abstract: "The conversion system identified by the code msst:tuk-Cyrl:Latn:1999 (msst:tuk-Cyrl:Latn:1999)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: msst:tuk-Cyrl:Latn:1999
+name: "Turkmen Standard TDS 565-1999 -- Official Roman Alphabet"
+authority: msst
+sourceSpelling: tuk-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1999"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

@@ -1,0 +1,23 @@
+uuid: bgnpcgn_kat-Geor_Latn_2009
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:kat-Geor:Latn:2009
+abstract: "The conversion system identified by the code bgnpcgn:kat-Geor:Latn:2009 (bgnpcgn:kat-Geor:Latn:2009)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:kat-Geor:Latn:2009
+name: "BGN/PCGN Agreement Georgian (2009)"
+authority: bgnpcgn
+sourceSpelling: kat-Geor
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2009"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Date approved: 2009; Originator: Govt of Georgia, 2002"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

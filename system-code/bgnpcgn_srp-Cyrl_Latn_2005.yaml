@@ -1,0 +1,24 @@
+uuid: bgnpcgn_srp-Cyrl_Latn_2005
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:srp-Cyrl:Latn:2005
+abstract: "The conversion system identified by the code bgnpcgn:srp-Cyrl:Latn:2005 (bgnpcgn:srp-Cyrl:Latn:2005)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `srp_Cyrl2Latn_BGN_2005`; Date approved: 2005; Originator: Govt of Serbia"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:srp-Cyrl:Latn:2005
+name: "BGN/PCGN Table of Correspondences Serbian (2005)"
+authority: bgnpcgn
+sourceSpelling: srp-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2005"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

@@ -1,0 +1,24 @@
+uuid: bgnpcgn_pus-Arab_Latn_1968
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:pus-Arab:Latn:1968
+abstract: "The conversion system identified by the code bgnpcgn:pus-Arab:Latn:1968 (bgnpcgn:pus-Arab:Latn:1968)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `pus_Arab2Latn_BGN_1968`; Date approved: 1968"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:pus-Arab:Latn:1968
+name: "BGN/PCGN System Pashto (1968)"
+authority: bgnpcgn
+sourceSpelling: pus-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1968"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

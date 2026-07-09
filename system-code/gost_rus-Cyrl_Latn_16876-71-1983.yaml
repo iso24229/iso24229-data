@@ -1,0 +1,24 @@
+uuid: gost_rus-Cyrl_Latn_16876-71-1983
+registrationStatus: proposed
+uri: urn:iso:24229:system:gost:rus-Cyrl:Latn:16876-71-1983
+abstract: "The conversion system identified by the code gost:rus-Cyrl:Latn:16876-71-1983 (gost:rus-Cyrl:Latn:16876-71-1983)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `rus_Cyrl2Latn_GOST_1983` Cancelled"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: gost:rus-Cyrl:Latn:16876-71-1983
+name: "GOST 16876-71-1982 Transliteration of russian words by latin characters"
+authority: gost
+sourceSpelling: rus-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "16876-71-1983"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

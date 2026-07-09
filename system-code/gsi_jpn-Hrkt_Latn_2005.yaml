@@ -1,0 +1,28 @@
+uuid: gsi_jpn-Hrkt_Latn_2005
+registrationStatus: proposed
+uri: urn:iso:24229:system:gsi:jpn-Hrkt:Latn:2005
+abstract: "The conversion system identified by the code gsi:jpn-Hrkt:Latn:2005 (gsi:jpn-Hrkt:Latn:2005)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "GSIJ2005"
+    label: "Romanization of Geographical Names in Japan"
+    title: "Romanization of Geographical Names in Japan (地名のローマ字表記). 国土地理院時報 2005 No.108 pp 65--75"
+    date: "2005"
+    url: https://www.gsi.go.jp/common/000024858.pdf
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: gsi:jpn-Hrkt:Latn:2005
+name: "Romanization of Geographical Names in Japan"
+authority: gsi
+sourceSpelling: jpn-Hrkt
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2005"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

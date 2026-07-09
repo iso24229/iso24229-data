@@ -1,0 +1,10 @@
+uuid: stategeocadastre
+registrationStatus: proposed
+uri: urn:iso:24229:authority:stategeocadastre
+abstract: "State Service of Ukraine for Geodesy, Cartography and Cadastre — a conversion system authority in the ISO 24229 register."
+authorityIdentifier: stategeocadastre
+name: State Service of Ukraine for Geodesy, Cartography and Cadastre
+  (StateGeoCadastre)
+remarks: Initial import at establishment of ISO 24229/RA.
+createdAt: 2026-07-06T00:00:00Z
+updatedAt: 2026-07-06T00:00:00Z

@@ -1,0 +1,29 @@
+uuid: mofa_jpn-Hrkt_Latn_2016
+registrationStatus: proposed
+uri: urn:iso:24229:system:mofa:jpn-Hrkt:Latn:2016
+abstract: "The conversion system identified by the code mofa:jpn-Hrkt:Latn:2016 (mofa:jpn-Hrkt:Latn:2016)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "JPMOFAPassport"
+    label: "Japan Ministry of Foreign Affairs Passport Standard"
+    title: "パスポート：ヘボン式ローマ字綴方表 (Passport Hepburn Spelling Table)"
+    publisher: "and https://www.ezairyu.mofa.go.jp/passport/hebon.html"
+    url: https://www.seikatubunka.metro.tokyo.lg.jp/passport/documents/0000000485.html
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: mofa:jpn-Hrkt:Latn:2016
+name: "Japan Passport Hepburn Romanization System"
+authority: mofa
+sourceSpelling: jpn-Hrkt
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2016"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "2016-02-23"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

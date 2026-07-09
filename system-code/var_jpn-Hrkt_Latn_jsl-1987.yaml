@@ -1,0 +1,29 @@
+uuid: var_jpn-Hrkt_Latn_jsl-1987
+registrationStatus: proposed
+uri: urn:iso:24229:system:var:jpn-Hrkt:Latn:jsl-1987
+abstract: "The conversion system identified by the code var:jpn-Hrkt:Latn:jsl-1987 (var:jpn-Hrkt:Latn:jsl-1987)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "JSL1987"
+    label: "Japanese, The Spoken Language"
+    title: Japanese
+    publisher: "The Spoken Language, Part 1, Eleanor Harz Jorden and Mari Noda, Yale University Press, ISBN 978-0-300-03834-7"
+    date: "1987"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: var:jpn-Hrkt:Latn:jsl-1987
+name: JSL
+authority: var
+sourceSpelling: jpn-Hrkt
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "jsl-1987"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "1987-09-10"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

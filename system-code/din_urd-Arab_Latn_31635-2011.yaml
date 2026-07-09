@@ -1,0 +1,22 @@
+uuid: din_urd-Arab_Latn_31635-2011
+registrationStatus: proposed
+uri: urn:iso:24229:system:din:urd-Arab:Latn:31635-2011
+abstract: "The conversion system identified by the code din:urd-Arab:Latn:31635-2011 (din:urd-Arab:Latn:31635-2011)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: din:urd-Arab:Latn:31635-2011
+name: "DIN 31635:2011 Information and Documentation -- Romanization of the Arabic Alphabet for Arabic, Ottoman-Turkish, Persian, Kurdish, Urdu and Pushto (2011-07)"
+authority: din
+sourceSpelling: urd-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "31635-2011"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

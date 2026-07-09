@@ -1,0 +1,24 @@
+uuid: alalc_ban-Bali_Latn_1997
+registrationStatus: proposed
+uri: urn:iso:24229:system:alalc:ban-Bali:Latn:1997
+abstract: "The conversion system identified by the code alalc:ban-Bali:Latn:1997 (alalc:ban-Bali:Latn:1997)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `ban_Bali2Latn_ALA_1997`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: alalc:ban-Bali:Latn:1997
+name: "ALA-LC Romanization Table -- Balinese (1997)"
+authority: alalc
+sourceSpelling: ban-Bali
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1997"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

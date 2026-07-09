@@ -1,0 +1,30 @@
+uuid: apcbg_bul-Cyrl_Latn_1995
+registrationStatus: proposed
+uri: urn:iso:24229:system:apcbg:bul-Cyrl:Latn:1995
+abstract: "The conversion system identified by the code apcbg:bul-Cyrl:Latn:1995 (apcbg:bul-Cyrl:Latn:1995)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "BasBulAnartic"
+    label: "Toponymic Guidelines for Antarctica"
+    title: "Toponymic Guidelines for Antarctica"
+    publisher: "Lyubomir Ivanov. Antarctic Place-names Commission of Bulgaria, Sofia"
+    date: "1995"
+    url: http://www.apcbg.org/Toponymic-Guidelines.htm
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: apcbg:bul-Cyrl:Latn:1995
+name: "Toponymic Guidelines for Antarctica"
+authority: apcbg
+sourceSpelling: bul-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1995"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Adoption date: 1995-03-02"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

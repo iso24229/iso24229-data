@@ -1,0 +1,24 @@
+uuid: royin_tha-Thai_Latn_1968
+registrationStatus: proposed
+uri: urn:iso:24229:system:royin:tha-Thai:Latn:1968
+abstract: "The conversion system identified by the code royin:tha-Thai:Latn:1968 (royin:tha-Thai:Latn:1968)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `tha_Thai2Latn_RIT_1968`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: royin:tha-Thai:Latn:1968
+name: "Royal Thai General System of Transcription (1968)"
+authority: royin
+sourceSpelling: tha-Thai
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1968"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

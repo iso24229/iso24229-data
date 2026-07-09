@@ -1,0 +1,30 @@
+uuid: hk_yue-Hani_Latn_1888
+registrationStatus: proposed
+uri: urn:iso:24229:system:hk:yue-Hani:Latn:1888
+abstract: "The conversion system identified by the code hk:yue-Hani:Latn:1888 (hk:yue-Hani:Latn:1888)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "ShinCream2008"
+    label: "Hong Kong Government Cantonese Romanisation"
+    title: "A System without a System: Cantonese Romanization Used in Hong Kong Place and Personal Names"
+    publisher: "Shin Kataoka and Cream Lee, Hong Kong Journal of Applied Linguistics 11, 1 (2008), pp. 79--98"
+    date: "2008"
+    url: "https://web.archive.org/web/20240622215159/http://caes.hku.hk/hkjalonline/issues/download_the_file.php?f=2008_v11_1_kataoka__n__lee.pdf"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: hk:yue-Hani:Latn:1888
+name: "Hong Kong Government Cantonese Romanisation"
+authority: hk
+sourceSpelling: yue-Hani
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1888"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Adoption date: 1888"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

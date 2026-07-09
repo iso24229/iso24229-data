@@ -1,0 +1,27 @@
+uuid: bgna_bul-Cyrl_Latn_2009
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgna:bul-Cyrl:Latn:2009
+abstract: "The conversion system identified by the code bgna:bul-Cyrl:Latn:2009 (bgna:bul-Cyrl:Latn:2009)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "BulTransAct2009"
+    label: "Republic of Bulgaria Transliteration Act"
+    title: "_Transliteration Act. State Gazette # 19"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgna:bul-Cyrl:Latn:2009
+name: "Streamlined System for Romanization of Bulgarian"
+authority: bgna
+sourceSpelling: bul-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2009"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Date adopted: 2009-02-27"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

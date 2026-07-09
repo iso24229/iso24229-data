@@ -1,0 +1,24 @@
+uuid: bgn_jpn-Hrkt_Latn_1930
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgn:jpn-Hrkt:Latn:1930
+abstract: "The conversion system identified by the code bgn:jpn-Hrkt:Latn:1930 (bgn:jpn-Hrkt:Latn:1930)."
+description: null
+specification: []
+examples: []
+notes:
+  - "OGC 11-122r1 code `jpn_Hrkt2Latn_BGN_1930`"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgn:jpn-Hrkt:Latn:1930
+name: "BGN Romanization System -- Japanese Kana Modified Hepburn System (1930)"
+authority: bgn
+sourceSpelling: jpn-Hrkt
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1930"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

@@ -1,0 +1,29 @@
+uuid: dmg_per-Arab_Latn_1969
+registrationStatus: proposed
+uri: urn:iso:24229:system:dmg:per-Arab:Latn:1969
+abstract: "The conversion system identified by the code dmg:per-Arab:Latn:1969 (dmg:per-Arab:Latn:1969)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "PerDMG1969"
+    label: "Perso-Arabic DMG 1969 System"
+    title: "Die Umschrift (Transkription) des arabisch-persischen Alphabets"
+    publisher: "Seminar für Sprachen und Kulturen des Vorderen Orients -- Islamwissenschaft, Ruprecht-Karls-Universität Heidelberg"
+    date: "2004"
+    url: https://web.archive.org/web/20250515131858/https://www.uni-heidelberg.de/fakultaeten/philosophie/ori/islamwissenschaft/md/ori/islamwissenschaft/transkription.pdf
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: dmg:per-Arab:Latn:1969
+name: "DMG Perso-Arabic System (1969)"
+authority: dmg
+sourceSpelling: per-Arab
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1969"
+relations: []
+codeStatus: proposed
+systemStatus: current
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

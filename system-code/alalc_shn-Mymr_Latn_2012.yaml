@@ -1,0 +1,23 @@
+uuid: alalc_shn-Mymr_Latn_2012
+registrationStatus: proposed
+uri: urn:iso:24229:system:alalc:shn-Mymr:Latn:2012
+abstract: "The conversion system identified by the code alalc:shn-Mymr:Latn:2012 (alalc:shn-Mymr:Latn:2012)."
+description: null
+specification: []
+examples: []
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: alalc:shn-Mymr:Latn:2012
+name: "ALA-LC Romanization Table -- Shan (2012)"
+authority: alalc
+sourceSpelling: shn-Mymr
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "2012"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "2012, Shan has no corresponding script code in ISO 15924, closest is Mymr"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

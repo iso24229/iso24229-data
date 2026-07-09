@@ -1,0 +1,30 @@
+uuid: bgnpcgn_aze-Cyrl_Latn_1993
+registrationStatus: proposed
+uri: urn:iso:24229:system:bgnpcgn:aze-Cyrl:Latn:1993
+abstract: "The conversion system identified by the code bgnpcgn:aze-Cyrl:Latn:1993 (bgnpcgn:aze-Cyrl:Latn:1993)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "BGNPCGNAzerbaijani1993"
+    label: "BGN/PCGN 1993 Agreement"
+    title: "Azerbaijani -- Table of Correspondences Cyrillic-Roman -- BGN/PCGN 1993 Agreement"
+    publisher: "Ministry of Defence/PCGN"
+    date: "1993"
+    url: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/816656/TABLE_OF_CORRESPONDENCES_FOR_AZERBAIJANI.pdf
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: bgnpcgn:aze-Cyrl:Latn:1993
+name: "BGN/PCGN Table of Correspondences Azerbaijani (1993)"
+authority: bgnpcgn
+sourceSpelling: aze-Cyrl
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1993"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Confirmation date: 2019-06"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"

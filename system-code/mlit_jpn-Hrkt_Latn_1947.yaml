@@ -1,0 +1,29 @@
+uuid: mlit_jpn-Hrkt_Latn_1947
+registrationStatus: proposed
+uri: urn:iso:24229:system:mlit:jpn-Hrkt:Latn:1947
+abstract: "The conversion system identified by the code mlit:jpn-Hrkt:Latn:1947 (mlit:jpn-Hrkt:Latn:1947)."
+description: null
+specification: []
+examples: []
+references:
+  - id: "JPMLITTL"
+    label: "Japan Railway Notice Regulations"
+    title: "Railway Notice Regulations (鉄道掲示規程). In: Transportation Announcement"
+    publisher: "No. 490. Tokyo, Ministry of Land, Infrastructure, Transport and Tourism, Japan"
+    date: "1947"
+provenance:
+  - "Initial import at establishment of ISO 24229/RA."
+code: mlit:jpn-Hrkt:Latn:1947
+name: "Japan Railway Modified Hepburn Romanization System"
+authority: mlit
+sourceSpelling: jpn-Hrkt
+sourceScriptCode: null
+targetSpelling: null
+targetScriptCode: Latn
+identifyingSegment: "1947"
+relations: []
+codeStatus: proposed
+systemStatus: current
+remarks: "Adoption date: 1947"
+createdAt: "2026-07-06 00:00:00+00:00"
+updatedAt: "2026-07-06 00:00:00+00:00"
