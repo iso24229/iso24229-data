@@ -1,7 +1,7 @@
 {
   "name": "@iso24229/iso24229-data",
   "type": "module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ISO 24229 register data — writing system conversion systems (public mirror of register entries)",
   "repository": {
     "type": "git",
