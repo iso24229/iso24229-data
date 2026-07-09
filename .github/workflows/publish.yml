@@ -56,10 +56,12 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          NEW_VERSION=$(npm version patch --no-git-tag-version)
+          # Strip leading "v" if npm version emits one (npm 11+ does)
+          RAW=$(npm version patch --no-git-tag-version)
+          NEW_VERSION="${RAW#v}"
           git add package.json
           DATE=$(date -u +%Y%m%d)
-          git commit -m "chore(release): iso24229-data $NEW_VERSION ($DATE)
+          git commit -m "chore(release): iso24229-data v$NEW_VERSION ($DATE)
 
           Triggered by data merge ${{ github.sha }}."
           git tag "v$NEW_VERSION"
